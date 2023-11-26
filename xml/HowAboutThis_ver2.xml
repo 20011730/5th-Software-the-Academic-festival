@@ -1,0 +1,3580 @@
+<figma file="소프트웨어학과 학술제 (이거어때)">
+<Page name="Page 1" imageid="0:1">
+  <Component name="게시글" description="">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="" nodeid="151:6599" transform="1,0,1355,0,1,-635"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="151:6598" transform="1,0,1324,0,1,-635"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="" nodeid="151:6596" transform="1,0,1057,0,1,-620"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="" nodeid="151:6595" transform="1,0,1057,0,1,-639"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="" nodeid="172:738" transform="1,0,1057,0,1,-661"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Component>
+  <Component name="state=checked" description="">
+    <TextNode>
+      <base>자동 로그인</base>
+      <string page="Page 1" frame="" nodeid="26:115" transform="1,0,-106,0,1,-543"><font val="S-Core Dream:5 Medium"/>자동 로그인</string>
+    </TextNode>
+  </Component>
+  <Component name="state=Default" description="">
+    <TextNode>
+      <base>자동 로그인</base>
+      <string page="Page 1" frame="" nodeid="26:107" transform="1,0,-106,0,1,-613"><font val="S-Core Dream:5 Medium"/>자동 로그인</string>
+    </TextNode>
+  </Component>
+  <Component name="form button" description="">
+    <TextNode>
+      <base>button</base>
+      <string page="Page 1" frame="" nodeid="37:11" transform="1,0,441,0,1,-634"><font val="S-Core Dream:5 Medium"/>button</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Default" description="">
+    <TextNode>
+      <base>input text</base>
+      <string page="Page 1" frame="" nodeid="33:150" transform="1,0,101,0,1,-614"><font val="S-Core Dream:5 Medium"/>input text</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="37:6" transform="1,0,71,0,1,-613"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="44:269" transform="1,0,72,0,1,-616"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Variant2" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="43:242" transform="1,0,71,0,1,-546"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="input-text" imageid="43:2223">
+    <TextNode>
+      <base>Input</base>
+      <string page="Page 1" frame="input-text" nodeid="43:2224" transform="1,0,101,0,1,-546"><font val="Roboto:Regular"/>Input</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="44:278" transform="1,0,72,0,1,-549"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Component>
+  <Component name="form input/button" description="">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I62:2591;53923:27634">
+    <TextNode>
+      <base>login</base>
+      <string page="Page 1" frame="state-layer" nodeid="I62:2591;53923:27635" transform="1,0,452,0,1,-574"><font val="Roboto:Medium"/>login</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Component>
+  <Component name="right" description="">
+  <Instance name="right" description="undefined">
+  <Frame name="AM" imageid="I44:522;52949:28530">
+  <Frame name="state-layer" imageid="I44:522;52949:28531">
+    <TextNode>
+      <base>남성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:522;52949:28532" transform="1,-2.3200662724320864e-8,-587,-1.6081259316801794e-16,1,-518"><font val="Roboto:Medium"/>남성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="PM" imageid="I44:522;52949:28533">
+  <Frame name="state-layer" imageid="I44:522;52949:28534">
+    <TextNode>
+      <base>여성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:522;52949:28535" transform="1,1.6081259316801794e-16,-479,-1.6081259316801794e-16,1,-518"><font val="Roboto:Medium"/>여성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Component>
+  <Component name="left" description="">
+  <Instance name="left" description="undefined">
+  <Frame name="AM" imageid="I44:514;52949:28530">
+  <Frame name="state-layer" imageid="I44:514;52949:28531">
+    <TextNode>
+      <base>남성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:514;52949:28532" transform="1,-2.3200662724320864e-8,-587.5,-1.6081259316801794e-16,1,-576"><font val="S-Core Dream:6 Bold"/>남성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="PM" imageid="I44:514;52949:28533">
+  <Frame name="state-layer" imageid="I44:514;52949:28534">
+    <TextNode>
+      <base>여성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:514;52949:28535" transform="1,1.6081259316801794e-16,-479.5,-1.6081259316801794e-16,1,-576"><font val="S-Core Dream:6 Bold"/>여성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Component>
+  <Component name="Property 1=Default" description="">
+  <Instance name="all" description="undefined">
+  <Frame name="AM" imageid="I44:383;52949:28530">
+  <Frame name="state-layer" imageid="I44:383;52949:28531">
+    <TextNode>
+      <base>남성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:383;52949:28532" transform="1,-2.3200662724320864e-8,-587,-1.6081259316801794e-16,1,-634"><font val="Roboto:Medium"/>남성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="PM" imageid="I44:383;52949:28533">
+  <Frame name="state-layer" imageid="I44:383;52949:28534">
+    <TextNode>
+      <base>여성</base>
+      <string page="Page 1" frame="state-layer" nodeid="I44:383;52949:28535" transform="1,1.6081259316801794e-16,-479,-1.6081259316801794e-16,1,-634"><font val="Roboto:Medium"/>여성</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Component>
+  <Component name="Property 1=Variant2" description="">
+  <Frame name="input-text" imageid="54:606">
+    <TextNode>
+      <base>Input</base>
+      <string page="Page 1" frame="input-text" nodeid="54:607" transform="1,0,66,0,1,-742"><font val="Roboto:Regular"/>Input</string>
+    </TextNode>
+  </Frame>
+  </Component>
+  <Component name="Property 1=Default" description="">
+    <TextNode>
+      <base>password</base>
+      <string page="Page 1" frame="" nodeid="54:586" transform="1,0,66,0,1,-811"><font val="S-Core Dream:5 Medium"/>password</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Group 1" description="">
+    <TextNode>
+      <base>---을 선택해 주세요.</base>
+      <string page="Page 1" frame="" nodeid="54:622" transform="1,0,433,0,1,-1575"><font val="S-Core Dream:5 Medium"/>---을 선택해 주세요.</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Group 2" description="">
+    <TextNode>
+      <base>---을 선택해 주세요.</base>
+      <string page="Page 1" frame="" nodeid="54:630" transform="1,0,433,0,1,-1508"><font val="S-Core Dream:5 Medium"/>---을 선택해 주세요.</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="54:670" transform="1,0,679,0,1,-1374"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Component 1, Property 2=Variant3" description="">
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>지역을 선택해주세요.</base>
+      <string page="Page 1" frame="" nodeid="I54:666;54:664" transform="1,0,433,0,1,-1385"><font val="S-Core Dream:5 Medium"/>지역을 선택해주세요.</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I54:666;54:665" transform="1,0,679,0,1,-1374"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+  </Component>
+  <Component name="Property 1=Frame 2" description="">
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>지역을 선택해주세요.</base>
+      <string page="Page 1" frame="" nodeid="I54:680;54:664" transform="1,0,433,0,1,-1304"><font val="S-Core Dream:5 Medium"/>지역을 선택해주세요.</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I54:680;54:665" transform="1,0,679,0,1,-1293"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+  <Frame name="Frame 1" imageid="54:661">
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>경기도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:681;54:636" transform="1,0,433,0,1,-1242"><font val="S-Core Dream:5 Medium"/>경기도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>강원도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:637;54:636" transform="1,0,433,0,1,-1195"><font val="S-Core Dream:5 Medium"/>강원도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>충청남도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:640;54:636" transform="1,0,433,0,1,-1148"><font val="S-Core Dream:5 Medium"/>충청남도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>충청북도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:643;54:636" transform="1,0,433,0,1,-1101"><font val="S-Core Dream:5 Medium"/>충청북도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>전라남도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:646;54:636" transform="1,0,433,0,1,-1054"><font val="S-Core Dream:5 Medium"/>전라남도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>전라북도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:649;54:636" transform="1,0,433,0,1,-1007"><font val="S-Core Dream:5 Medium"/>전라북도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>경상남도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:652;54:636" transform="1,0,433,0,1,-960"><font val="S-Core Dream:5 Medium"/>경상남도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>경상북도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:655;54:636" transform="1,0,433,0,1,-913"><font val="S-Core Dream:5 Medium"/>경상북도</string>
+    </TextNode>
+  </Instance>
+  <Instance name="Component 1/Variant3" description="undefined">
+    <TextNode>
+      <base>제주특별자치도</base>
+      <string page="Page 1" frame="Frame 1" nodeid="I54:658;54:636" transform="1,0,433,0,1,-866"><font val="S-Core Dream:5 Medium"/>제주특별자치도</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  </Component>
+  <Component name="Modal Date Picker-dark" description="">
+  <Frame name="Header" imageid="61:2148">
+  <Frame name="Label and Date" imageid="61:2149">
+    <TextNode>
+      <base>Select date</base>
+      <string page="Page 1" frame="Label and Date" nodeid="61:2150" transform="1,0,859,0,1,-1318"><font val="Roboto:Medium"/>Select date</string>
+    </TextNode>
+    <TextNode>
+      <base>Friday, Nov 17</base>
+      <string page="Page 1" frame="Label and Date" nodeid="61:2151" transform="1,0,859,0,1,-1266"><font val="Roboto:Regular"/>Friday, Nov 17</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Local Calendar grid" imageid="61:2158">
+  <Frame name="Local Selection Row" imageid="61:2153">
+  <Instance name="Building blocks/Menu button-dark" description="undefined">
+  <Frame name="state-layer" imageid="I61:2154;51954:19690">
+    <TextNode>
+      <base>November 2023</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2154;51954:19691" transform="1,0,871,0,1,-1172"><font val="Roboto:Medium"/>November 2023</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Days of the week" imageid="61:2159">
+  <Frame name="Sunday" imageid="61:2160">
+    <TextNode>
+      <base>S</base>
+      <string page="Page 1" frame="Sunday" nodeid="61:2161" transform="1,0,865.4285888671875,0,1,-1122"><font val="Roboto:Regular"/>S</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Monday" imageid="61:2162">
+    <TextNode>
+      <base>M</base>
+      <string page="Page 1" frame="Monday" nodeid="61:2163" transform="1,0,910.2857666015625,0,1,-1122"><font val="Roboto:Regular"/>M</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Tuesday" imageid="61:2164">
+    <TextNode>
+      <base>T</base>
+      <string page="Page 1" frame="Tuesday" nodeid="61:2165" transform="1,0,959.1428833007812,0,1,-1122"><font val="Roboto:Regular"/>T</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Wednesday" imageid="61:2166">
+    <TextNode>
+      <base>W</base>
+      <string page="Page 1" frame="Wednesday" nodeid="61:2167" transform="1,0,1003.5,0,1,-1122"><font val="Roboto:Regular"/>W</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Thursday" imageid="61:2168">
+    <TextNode>
+      <base>T</base>
+      <string page="Page 1" frame="Thursday" nodeid="61:2169" transform="1,0,1052.857177734375,0,1,-1122"><font val="Roboto:Regular"/>T</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Friday" imageid="61:2170">
+    <TextNode>
+      <base>F</base>
+      <string page="Page 1" frame="Friday" nodeid="61:2171" transform="1,0,1100.21435546875,0,1,-1122"><font val="Roboto:Regular"/>F</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Saturday" imageid="61:2172">
+    <TextNode>
+      <base>S</base>
+      <string page="Page 1" frame="Saturday" nodeid="61:2173" transform="1,0,1146.5714111328125,0,1,-1122"><font val="Roboto:Regular"/>S</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Week 1" imageid="61:2174">
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I61:2177;51954:19545">
+  <Frame name="state-layer" imageid="I61:2177;51954:19546">
+    <TextNode>
+      <base>1</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2177;51954:19547" transform="1,0,1009.5,0,1,-1074"><font val="Roboto:Regular"/>1</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I61:2178;51954:19545">
+  <Frame name="state-layer" imageid="I61:2178;51954:19546">
+    <TextNode>
+      <base>2</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2178;51954:19547" transform="1,0,1055.5,0,1,-1074"><font val="Roboto:Regular"/>2</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I61:2179;51954:19545">
+  <Frame name="state-layer" imageid="I61:2179;51954:19546">
+    <TextNode>
+      <base>3</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2179;51954:19547" transform="1,0,1101.5,0,1,-1074"><font val="Roboto:Regular"/>3</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I61:2180;51954:19545">
+  <Frame name="state-layer" imageid="I61:2180;51954:19546">
+    <TextNode>
+      <base>4</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2180;51954:19547" transform="1,0,1147.5,0,1,-1074"><font val="Roboto:Regular"/>4</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 2" imageid="61:2182">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I61:2181;51954:19567">
+  <Frame name="state-layer" imageid="I61:2181;51954:19568">
+    <TextNode>
+      <base>5</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2181;51954:19569" transform="1,0,865.9285888671875,0,1,-1026"><font val="Roboto:Regular"/>5</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I61:2183;51954:19545">
+  <Frame name="state-layer" imageid="I61:2183;51954:19546">
+    <TextNode>
+      <base>6</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2183;51954:19547" transform="1,0,912.7857055664062,0,1,-1026"><font val="Roboto:Regular"/>6</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I61:2184;51954:19545">
+  <Frame name="state-layer" imageid="I61:2184;51954:19546">
+    <TextNode>
+      <base>7</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2184;51954:19547" transform="1,0,959.6428833007812,0,1,-1026"><font val="Roboto:Regular"/>7</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I61:2185;51954:19545">
+  <Frame name="state-layer" imageid="I61:2185;51954:19546">
+    <TextNode>
+      <base>8</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2185;51954:19547" transform="1,0,1006.5,0,1,-1026"><font val="Roboto:Regular"/>8</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I61:2186;51954:19545">
+  <Frame name="state-layer" imageid="I61:2186;51954:19546">
+    <TextNode>
+      <base>9</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2186;51954:19547" transform="1,0,1053.357177734375,0,1,-1026"><font val="Roboto:Regular"/>9</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I61:2187;51954:19545">
+  <Frame name="state-layer" imageid="I61:2187;51954:19546">
+    <TextNode>
+      <base>10</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2187;51954:19547" transform="1,0,1095.2142333984375,0,1,-1026"><font val="Roboto:Regular"/>10</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I61:2188;51954:19545">
+  <Frame name="state-layer" imageid="I61:2188;51954:19546">
+    <TextNode>
+      <base>11</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2188;51954:19547" transform="1,0,1142.0714111328125,0,1,-1026"><font val="Roboto:Regular"/>11</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 3" imageid="61:2190">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I61:2189;51954:19545">
+  <Frame name="state-layer" imageid="I61:2189;51954:19546">
+    <TextNode>
+      <base>12</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2189;51954:19547" transform="1,0,860.9285888671875,0,1,-978"><font val="Roboto:Regular"/>12</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I61:2191;51954:19545">
+  <Frame name="state-layer" imageid="I61:2191;51954:19546">
+    <TextNode>
+      <base>13</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2191;51954:19547" transform="1,0,907.7857666015625,0,1,-978"><font val="Roboto:Regular"/>13</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I61:2192;51954:19545">
+  <Frame name="state-layer" imageid="I61:2192;51954:19546">
+    <TextNode>
+      <base>14</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2192;51954:19547" transform="1,0,954.6428833007812,0,1,-978"><font val="Roboto:Regular"/>14</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I61:2193;51954:19545">
+  <Frame name="state-layer" imageid="I61:2193;51954:19546">
+    <TextNode>
+      <base>15</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2193;51954:19547" transform="1,0,1001.5,0,1,-978"><font val="Roboto:Regular"/>15</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I61:2194;51954:19545">
+  <Frame name="state-layer" imageid="I61:2194;51954:19546">
+    <TextNode>
+      <base>16</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2194;51954:19547" transform="1,0,1048.357177734375,0,1,-978"><font val="Roboto:Regular"/>16</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Building Blocks/M3 calendar cell-dark" description="undefined">
+  <Frame name="container" imageid="I61:2195;51954:19590">
+  <Frame name="state-layer" imageid="I61:2195;51954:19591">
+    <TextNode>
+      <base>17</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2195;51954:19592" transform="1,0,1095.21435546875,0,1,-978"><font val="Roboto:Regular"/>17</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I61:2196;51954:19545">
+  <Frame name="state-layer" imageid="I61:2196;51954:19546">
+    <TextNode>
+      <base>18</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2196;51954:19547" transform="1,0,1142.0714111328125,0,1,-978"><font val="Roboto:Regular"/>18</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 4" imageid="61:2198">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I61:2197;51954:19545">
+  <Frame name="state-layer" imageid="I61:2197;51954:19546">
+    <TextNode>
+      <base>19</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2197;51954:19547" transform="1,0,860.9285888671875,0,1,-930"><font val="Roboto:Regular"/>19</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I61:2199;51954:19545">
+  <Frame name="state-layer" imageid="I61:2199;51954:19546">
+    <TextNode>
+      <base>20</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2199;51954:19547" transform="1,0,907.7857666015625,0,1,-930"><font val="Roboto:Regular"/>20</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I61:2200;51954:19545">
+  <Frame name="state-layer" imageid="I61:2200;51954:19546">
+    <TextNode>
+      <base>21</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2200;51954:19547" transform="1,0,954.6428833007812,0,1,-930"><font val="Roboto:Regular"/>21</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I61:2201;51954:19545">
+  <Frame name="state-layer" imageid="I61:2201;51954:19546">
+    <TextNode>
+      <base>22</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2201;51954:19547" transform="1,0,1001.5,0,1,-930"><font val="Roboto:Regular"/>22</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I61:2202;51954:19545">
+  <Frame name="state-layer" imageid="I61:2202;51954:19546">
+    <TextNode>
+      <base>23</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2202;51954:19547" transform="1,0,1048.357177734375,0,1,-930"><font val="Roboto:Regular"/>23</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I61:2203;51954:19545">
+  <Frame name="state-layer" imageid="I61:2203;51954:19546">
+    <TextNode>
+      <base>24</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2203;51954:19547" transform="1,0,1095.21435546875,0,1,-930"><font val="Roboto:Regular"/>24</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I61:2204;51954:19545">
+  <Frame name="state-layer" imageid="I61:2204;51954:19546">
+    <TextNode>
+      <base>25</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2204;51954:19547" transform="1,0,1142.0714111328125,0,1,-930"><font val="Roboto:Regular"/>25</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 5" imageid="61:2206">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I61:2205;51954:19545">
+  <Frame name="state-layer" imageid="I61:2205;51954:19546">
+    <TextNode>
+      <base>26</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2205;51954:19547" transform="1,0,860.7000122070312,0,1,-882"><font val="Roboto:Regular"/>26</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I61:2207;51954:19545">
+  <Frame name="state-layer" imageid="I61:2207;51954:19546">
+    <TextNode>
+      <base>27</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2207;51954:19547" transform="1,0,907.0999755859375,0,1,-882"><font val="Roboto:Regular"/>27</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I61:2208;51954:19545">
+  <Frame name="state-layer" imageid="I61:2208;51954:19546">
+    <TextNode>
+      <base>28</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2208;51954:19547" transform="1,0,953.5,0,1,-882"><font val="Roboto:Regular"/>28</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I61:2209;51954:19545">
+  <Frame name="state-layer" imageid="I61:2209;51954:19546">
+    <TextNode>
+      <base>29</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2209;51954:19547" transform="1,0,999.9000244140625,0,1,-882"><font val="Roboto:Regular"/>29</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I61:2210;51954:19545">
+  <Frame name="state-layer" imageid="I61:2210;51954:19546">
+    <TextNode>
+      <base>30</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2210;51954:19547" transform="1,0,1046.2999267578125,0,1,-882"><font val="Roboto:Regular"/>30</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+  <Frame name="Local Actions" imageid="61:2222">
+  <Instance name="Secondary button" description="undefined">
+  <Frame name="state-layer" imageid="I61:2223;53923:27747">
+    <TextNode>
+      <base>Cancel</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2223;53923:27748" transform="1,0,1068,0,1,-828"><font val="Roboto:Medium"/>Cancel</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  <Instance name="Primary button" description="undefined">
+  <Frame name="state-layer" imageid="I61:2224;53923:27747">
+    <TextNode>
+      <base>OK</base>
+      <string page="Page 1" frame="state-layer" nodeid="I61:2224;53923:27748" transform="1,0,1144,0,1,-828"><font val="Roboto:Medium"/>OK</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Component>
+  <Component name="Basic dialog-dark" description="">
+  <Instance name="Basic dialog-dark" description="undefined">
+  <Frame name="Text Content" imageid="I96:946;52112:32136">
+  <Frame name="Title &amp; Description " imageid="I96:946;52112:32137">
+    <TextNode>
+      <base>Basic dialog title</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I96:946;52112:32138" transform="1,0,1307,0,1,-1286"><font val="Roboto:Regular"/>Basic dialog title</string>
+    </TextNode>
+    <TextNode>
+      <base>A dialog is a type of modal window that appears in front of app content to provide critical information, or prompt for a decision to be made.</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I96:946;52112:32139" transform="1,0,1307,0,1,-1238"><font val="Roboto:Regular"/>A dialog is a type of modal window that appears in front of app content to provide critical information, or prompt for a decision to be made.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Actions" imageid="I96:946;52112:32140">
+  <Frame name="Actions" imageid="I96:946;52112:32141">
+  <Instance name="Secondary button" description="undefined">
+  <Frame name="state-layer" imageid="I96:946;52112:32142;53923:27747">
+    <TextNode>
+      <base>Action 2</base>
+      <string page="Page 1" frame="state-layer" nodeid="I96:946;52112:32142;53923:27748" transform="1,0,1421,0,1,-1124"><font val="Roboto:Medium"/>Action 2</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  <Instance name="Primary button" description="undefined">
+  <Frame name="state-layer" imageid="I96:946;52112:32143;53923:27747">
+    <TextNode>
+      <base>Action 1</base>
+      <string page="Page 1" frame="state-layer" nodeid="I96:946;52112:32143;53923:27748" transform="1,0,1506,0,1,-1124"><font val="Roboto:Medium"/>Action 1</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Component>
+  <Component name="Property 1=search form" description="">
+  <Frame name="Search bar-dark" imageid="120:6476">
+  <Frame name="state-layer" imageid="120:6477">
+  <Frame name="Content" imageid="120:6479">
+    <TextNode>
+      <base>search</base>
+      <string page="Page 1" frame="Content" nodeid="120:6480" transform="1,0,1321.199951171875,0,1,-1028.4998779296875"><font val="Roboto:Regular"/>search</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Component>
+  <Component name="Property 1=Variant2" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="120:6548" transform="1,0,814,0,1,-559.5"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base>orginal_text</base>
+      <string page="Page 1" frame="" nodeid="120:6547" transform="1,0,809,0,1,-559"><font val="S-Core Dream:5 Medium"/>orginal_text</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Default" description="">
+    <TextNode>
+      <base>original_text</base>
+      <string page="Page 1" frame="" nodeid="120:6538" transform="1,0,814,0,1,-620"><font val="S-Core Dream:5 Medium"/>original_text</string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Variant2" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="172:924" transform="1,0,1585,0,1,-579"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Default" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1258" transform="1,0,1724,0,1,-722"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Component>
+  <Component name="Property 1=Default" description="">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1260" transform="1,0,1724,0,1,-679"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Component>
+  <Frame name="채팅 뷰" imageid="192:1302">
+    <TextNode>
+      <base>대화 상대 닉네임</base>
+      <string page="Page 1" frame="채팅 뷰" nodeid="192:1304" transform="1,0,1584,0,1,1616"><font val="S-Core Dream:5 Medium"/>대화 상대 닉네임</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="채팅 뷰" nodeid="192:1383" transform="1,0,1902,0,1,1628"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Frame name="Actions + Field " imageid="192:2511">
+  <Frame name="Messages Send Field" imageid="192:2512">
+  <Frame name="Right" imageid="192:2513">
+    <TextNode>
+      <base>Message</base>
+      <string page="Page 1" frame="" nodeid="192:2517" transform="1,0,1616.291748046875,0,1,2313"><font val="Roboto:Regular"/>Message</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  <Frame name="Frame 3294" imageid="192:2440">
+  <Frame name="채팅 스크롤" imageid="192:1306">
+  <Instance name="Android Whatsapp Sender Bubbles" description="undefined">
+  <Frame name="Bubble" imageid="I192:2404;299:12216">
+    <TextNode>
+      <base>Perfect! I’ll send you a video about our Webflow Templates in case you’re interested!</base>
+      <string page="Page 1" frame="Bubble" nodeid="I192:2404;299:12217" transform="1,0,1586,0,1,1689"><font val="Roboto:Regular"/>Perfect! I’ll send you a video about our Webflow Templates in case you’re interested!</string>
+    </TextNode>
+  <Frame name="Time" imageid="I192:2404;299:12218">
+    <TextNode>
+      <base>15:23</base>
+      <string page="Page 1" frame="Time" nodeid="I192:2404;299:12219" transform="1,0,1826.9000244140625,0,1,1757"><font val="Roboto:Regular"/>15:23</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Android Whatsapp Sender Bubbles" description="undefined">
+  <Frame name="Bubble" imageid="I192:2433;299:12216">
+    <TextNode>
+      <base>Perfect! I’ll send you a video about our Webflow Templates in case you’re interested!</base>
+      <string page="Page 1" frame="Bubble" nodeid="I192:2433;299:12217" transform="1,0,1638,0,1,1805"><font val="Roboto:Regular"/>Perfect! I’ll send you a video about our Webflow Templates in case you’re interested!</string>
+    </TextNode>
+  <Frame name="Time" imageid="I192:2433;299:12218">
+    <TextNode>
+      <base>15:23</base>
+      <string page="Page 1" frame="Time" nodeid="I192:2433;299:12219" transform="1,0,1878.9000244140625,0,1,1873"><font val="Roboto:Regular"/>15:23</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1320" transform="1,0,1893,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1322" transform="1,0,1584,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="채팅 홈 뷰" imageid="192:1072">
+    <TextNode>
+      <base>채팅 목록</base>
+      <string page="Page 1" frame="채팅 홈 뷰" nodeid="192:1164" transform="1,0,1001,0,1,1616"><font val="S-Core Dream:5 Medium"/>채팅 목록</string>
+    </TextNode>
+    <TextNode>
+      <base>5</base>
+      <string page="Page 1" frame="채팅 홈 뷰" nodeid="192:1165" transform="1,0,1261,0,1,1625"><font val="S-Core Dream:5 Medium"/>5</string>
+    </TextNode>
+  <Frame name="채팅 스크롤" imageid="192:1300">
+  <Instance name="Chat Stack" description="undefined">
+  <Frame name="Data Container" imageid="I192:1287;2:3552">
+  <Frame name="Name" imageid="I192:1287;2:3553">
+    <TextNode>
+      <base>울산 귀신고래</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1287;2:3554" transform="1,0,1054,0,1,1895"><font val="Mulish:SemiBold"/>울산 귀신고래</string>
+    </TextNode>
+    <TextNode>
+      <base>09:01</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1287;2:3555" transform="1,0,1319,0,1,1895"><font val="Mulish:Regular"/>09:01</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Chat" imageid="I192:1287;2:3556">
+    <TextNode>
+      <base>고래 고래 고래래</base>
+      <string page="Page 1" frame="Chat" nodeid="I192:1287;2:3557" transform="1,0,1054,0,1,1921"><font val="Mulish:Regular"/>고래 고래 고래래</string>
+    </TextNode>
+  <Frame name="Tags" imageid="I192:1287;2:3558">
+    <TextNode>
+      <base>1</base>
+      <string page="Page 1" frame="Tags" nodeid="I192:1287;2:3559" transform="1,0,1332,0,1,1923"><font val="Mulish:SemiBold"/>1</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Chat Stack" description="undefined">
+  <Frame name="Data Container" imageid="I192:1274;2:3552">
+  <Frame name="Name" imageid="I192:1274;2:3553">
+    <TextNode>
+      <base>인천 하이패쓰</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1274;2:3554" transform="1,0,1054,0,1,1837"><font val="Mulish:SemiBold"/>인천 하이패쓰</string>
+    </TextNode>
+    <TextNode>
+      <base>11:08</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1274;2:3555" transform="1,0,1319,0,1,1837"><font val="Mulish:Regular"/>11:08</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Chat" imageid="I192:1274;2:3556">
+    <TextNode>
+      <base>내가 인천 하이패쓰다다</base>
+      <string page="Page 1" frame="Chat" nodeid="I192:1274;2:3557" transform="1,0,1054,0,1,1863"><font val="Mulish:Regular"/>내가 인천 하이패쓰다다</string>
+    </TextNode>
+  <Frame name="Tags" imageid="I192:1274;2:3558">
+    <TextNode>
+      <base>2</base>
+      <string page="Page 1" frame="Tags" nodeid="I192:1274;2:3559" transform="1,0,1332,0,1,1865"><font val="Mulish:SemiBold"/>2</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Chat Stack" description="undefined">
+  <Frame name="Data Container" imageid="I192:1261;2:3552">
+  <Frame name="Name" imageid="I192:1261;2:3553">
+    <TextNode>
+      <base>광진구 불주먹</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1261;2:3554" transform="1,0,1054,0,1,1779"><font val="Mulish:SemiBold"/>광진구 불주먹</string>
+    </TextNode>
+    <TextNode>
+      <base>12:20</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1261;2:3555" transform="1,0,1319,0,1,1779"><font val="Mulish:Regular"/>12:20</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Chat" imageid="I192:1261;2:3556">
+    <TextNode>
+      <base>하이 하이이</base>
+      <string page="Page 1" frame="Chat" nodeid="I192:1261;2:3557" transform="1,0,1054,0,1,1805"><font val="Mulish:Regular"/>하이 하이이</string>
+    </TextNode>
+  <Frame name="Tags" imageid="I192:1261;2:3558">
+    <TextNode>
+      <base>3</base>
+      <string page="Page 1" frame="Tags" nodeid="I192:1261;2:3559" transform="1,0,1332,0,1,1807"><font val="Mulish:SemiBold"/>3</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Chat Stack" description="undefined">
+  <Frame name="Data Container" imageid="I192:1248;2:3552">
+  <Frame name="Name" imageid="I192:1248;2:3553">
+    <TextNode>
+      <base>Spider-man</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1248;2:3554" transform="1,0,1054,0,1,1721"><font val="Mulish:SemiBold"/>Spider-man</string>
+    </TextNode>
+    <TextNode>
+      <base>13:01</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1248;2:3555" transform="1,0,1319,0,1,1721"><font val="Mulish:Regular"/>13:01</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Chat" imageid="I192:1248;2:3556">
+    <TextNode>
+      <base>How is it going?</base>
+      <string page="Page 1" frame="Chat" nodeid="I192:1248;2:3557" transform="1,0,1054,0,1,1747"><font val="Mulish:Regular"/>How is it going?</string>
+    </TextNode>
+  <Frame name="Tags" imageid="I192:1248;2:3558">
+    <TextNode>
+      <base>16</base>
+      <string page="Page 1" frame="Tags" nodeid="I192:1248;2:3559" transform="1,0,1326,0,1,1749"><font val="Mulish:SemiBold"/>16</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Chat Stack" description="undefined">
+  <Frame name="Data Container" imageid="I192:1229;2:3552">
+  <Frame name="Name" imageid="I192:1229;2:3553">
+    <TextNode>
+      <base>빵빵이</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1229;2:3554" transform="1,0,1054,0,1,1663"><font val="Mulish:SemiBold"/>빵빵이</string>
+    </TextNode>
+    <TextNode>
+      <base>13:09</base>
+      <string page="Page 1" frame="Name" nodeid="I192:1229;2:3555" transform="1,0,1319,0,1,1663"><font val="Mulish:Regular"/>13:09</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Chat" imageid="I192:1229;2:3556">
+    <TextNode>
+      <base>옥지얌</base>
+      <string page="Page 1" frame="Chat" nodeid="I192:1229;2:3557" transform="1,0,1054,0,1,1689"><font val="Mulish:Regular"/>옥지얌</string>
+    </TextNode>
+  <Frame name="Tags" imageid="I192:1229;2:3558">
+    <TextNode>
+      <base>1</base>
+      <string page="Page 1" frame="Tags" nodeid="I192:1229;2:3559" transform="1,0,1332,0,1,1691"><font val="Mulish:SemiBold"/>1</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1153" transform="1,0,1298,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1154" transform="1,0,1226,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1155" transform="1,0,1154,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1156" transform="1,0,1083,0,1,2308"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1157" transform="1,0,1005,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1159" transform="1,0,1310,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1161" transform="1,0,1001,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="알림 뷰" imageid="192:739">
+    <TextNode>
+      <base>최근 알림 15개</base>
+      <string page="Page 1" frame="알림 뷰" nodeid="192:965" transform="1,0,418,0,1,1618"><font val="S-Core Dream:5 Medium"/>최근 알림 15개</string>
+    </TextNode>
+  <Frame name="알림 스크롤" imageid="192:1055">
+  <Frame name="새로운 댓글" imageid="192:971">
+  <Frame name="Frame 2" imageid="192:969">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:968" transform="1,0,418,0,1,1667"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:967" transform="1,0,467,0,1,1658"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:982">
+  <Frame name="Frame 3" imageid="192:981">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:977" transform="1,0,418,0,1,1725"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:976" transform="1,0,467,0,1,1716"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:983">
+  <Frame name="Frame 2" imageid="192:985">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:986" transform="1,0,418,0,1,1783"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:987" transform="1,0,467,0,1,1774"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:988">
+  <Frame name="Frame 3" imageid="192:990">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:991" transform="1,0,418,0,1,1841"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:992" transform="1,0,467,0,1,1832"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:993">
+  <Frame name="Frame 2" imageid="192:995">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:996" transform="1,0,418,0,1,1899"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:997" transform="1,0,467,0,1,1890"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:998">
+  <Frame name="Frame 3" imageid="192:1000">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1001" transform="1,0,418,0,1,1957"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1002" transform="1,0,467,0,1,1948"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:1003">
+  <Frame name="Frame 2" imageid="192:1005">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1006" transform="1,0,418,0,1,2015"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1007" transform="1,0,467,0,1,2006"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:1008">
+  <Frame name="Frame 3" imageid="192:1010">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1011" transform="1,0,418,0,1,2073"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1012" transform="1,0,467,0,1,2064"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:1013">
+  <Frame name="Frame 2" imageid="192:1015">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1016" transform="1,0,418,0,1,2131"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1017" transform="1,0,467,0,1,2122"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:1018">
+  <Frame name="Frame 3" imageid="192:1020">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1021" transform="1,0,418,0,1,2189"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1022" transform="1,0,467,0,1,2180"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:1023">
+  <Frame name="Frame 2" imageid="192:1025">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1026" transform="1,0,418,0,1,2247"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1027" transform="1,0,467,0,1,2238"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:1028">
+  <Frame name="Frame 3" imageid="192:1030">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1031" transform="1,0,418,0,1,2305"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1032" transform="1,0,467,0,1,2296"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:1033">
+  <Frame name="Frame 2" imageid="192:1035">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1036" transform="1,0,418,0,1,2363"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1037" transform="1,0,467,0,1,2354"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 게시글" imageid="192:1038">
+  <Frame name="Frame 3" imageid="192:1040">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1041" transform="1,0,418,0,1,2421"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>새로운 게시글이 올라왔습니다.</base>
+      <string page="Page 1" frame="Frame 3" nodeid="192:1042" transform="1,0,467,0,1,2412"><font val="S-Core Dream:5 Medium"/>새로운 게시글이 올라왔습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="새로운 댓글" imageid="192:1043">
+  <Frame name="Frame 2" imageid="192:1045">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1046" transform="1,0,418,0,1,2479"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>000님이 새로운 댓글을 달았습니다.</base>
+      <string page="Page 1" frame="Frame 2" nodeid="192:1047" transform="1,0,467,0,1,2470"><font val="S-Core Dream:5 Medium"/>000님이 새로운 댓글을 달았습니다.</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:771" transform="1,0,715,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:772" transform="1,0,643,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:773" transform="1,0,571,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:774" transform="1,0,500,0,1,2308"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:775" transform="1,0,422,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:777" transform="1,0,727,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:779" transform="1,0,418,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="갤러리 뷰" imageid="172:879">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="갤러리 뷰" nodeid="172:881" transform="1,0,-1034,0,1,3299"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="갤러리 뷰" nodeid="172:882" transform="1,0,-1106,0,1,3299"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="갤러리 뷰" nodeid="172:883" transform="1,0,-1178,0,1,3299"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="갤러리 뷰" nodeid="172:884" transform="1,0,-1249,0,1,3300"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="갤러리 뷰" nodeid="172:885" transform="1,0,-1327,0,1,3299"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="완료 버튼" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I172:896;62:2591;53923:27634">
+    <TextNode>
+      <base>완료</base>
+      <string page="Page 1" frame="state-layer" nodeid="I172:896;62:2591;53923:27635" transform="1,0,-1056,0,1,3208"><font val="Roboto:Medium"/>완료</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+    <TextNode>
+      <base>내 갤러리</base>
+      <string page="Page 1" frame="" nodeid="172:913" transform="1,0,-1208,0,1,2619"><font val="S-Core Dream:5 Medium"/>내 갤러리</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="172:894" transform="1,0,-1022,0,1,2564"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1232" transform="1,0,-1331,0,1,2564"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="글쓰기 뷰" imageid="172:573">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="글쓰기 뷰" nodeid="172:575" transform="1,0,-451,0,1,3299"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="글쓰기 뷰" nodeid="172:576" transform="1,0,-523,0,1,3299"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="글쓰기 뷰" nodeid="172:577" transform="1,0,-595,0,1,3299"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="글쓰기 뷰" nodeid="172:578" transform="1,0,-666,0,1,3300"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="글쓰기 뷰" nodeid="172:579" transform="1,0,-744,0,1,3299"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I172:733;62:2591;53923:27634">
+    <TextNode>
+      <base>작성하기</base>
+      <string page="Page 1" frame="state-layer" nodeid="I172:733;62:2591;53923:27635" transform="1,0,-489,0,1,3208"><font val="Roboto:Medium"/>작성하기</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I172:864;62:2591;53923:27634">
+    <TextNode>
+      <base>취소</base>
+      <string page="Page 1" frame="state-layer" nodeid="I172:864;62:2591;53923:27635" transform="1,0,-729,0,1,3208"><font val="Roboto:Medium"/>취소</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+  <Instance name="내용" description="undefined">
+    <TextNode>
+      <base>※내용 작성 관련 경고※</base>
+      <string page="Page 1" frame="" nodeid="I172:715;54:586" transform="1,0,-743,0,1,2939"><font val="S-Core Dream:5 Medium"/>※내용 작성 관련 경고※</string>
+    </TextNode>
+  </Instance>
+  <Frame name="사진&amp;인원 메뉴" imageid="172:729">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="사진&amp;인원 메뉴" nodeid="172:718" transform="1,0,-743,0,1,2680.5"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="모집 인원" imageid="172:728">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="모집 인원" nodeid="172:719" transform="1,0,-531,0,1,2682.5"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Instance name="모집 인원 수" description="undefined">
+    <TextNode>
+      <base>모집 인원</base>
+      <string page="Page 1" frame="모집 인원" nodeid="I172:724;54:586" transform="1,0,-493,0,1,2683"><font val="S-Core Dream:5 Medium"/>모집 인원</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  </Frame>
+  <Instance name="제목" description="undefined">
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="" nodeid="I172:712;54:586" transform="1,0,-743,0,1,2638"><font val="S-Core Dream:5 Medium"/>제목</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="172:684" transform="1,0,-439,0,1,2564"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="184:1387" transform="1,0,-748,0,1,2562"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Instance name="참여 확인 뷰" description="undefined">
+  <Instance name="Basic dialog-dark" description="undefined">
+  <Frame name="Text Content" imageid="I184:1371;96:946;52112:32136">
+  <Frame name="Title &amp; Description " imageid="I184:1371;96:946;52112:32137">
+    <TextNode>
+      <base>정말 참여하시겠습니까?</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I184:1371;96:946;52112:32138" transform="1,0,-1857,0,1,1884"><font val="S-Core Dream:5 Medium"/>정말 참여하시겠습니까?</string>
+    </TextNode>
+    <TextNode>
+      <base>정말 해당 그룹에 참여를 신청하시겠습니까?</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I184:1371;96:946;52112:32139" transform="1,0,-1857,0,1,1932"><font val="Roboto:Regular"/>정말 해당 그룹에 참여를 신청하시겠습니까?</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Actions" imageid="I184:1371;96:946;52112:32140">
+  <Frame name="Actions" imageid="I184:1371;96:946;52112:32141">
+  <Instance name="Secondary button" description="undefined">
+  <Frame name="state-layer" imageid="I184:1371;96:946;52112:32142;53923:27747">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I184:1371;96:946;52112:32142;53923:27748" transform="1,0,-1689,0,1,1986"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  <Instance name="Primary button" description="undefined">
+  <Frame name="state-layer" imageid="I184:1371;96:946;52112:32143;53923:27747">
+    <TextNode>
+      <base>취소</base>
+      <string page="Page 1" frame="state-layer" nodeid="I184:1371;96:946;52112:32143;53923:27748" transform="1,0,-1631,0,1,1986"><font val="Roboto:Medium"/>취소</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Instance>
+  <Frame name="게시물 세부 뷰" imageid="172:980">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:982" transform="1,0,-1034,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:983" transform="1,0,-1106,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:984" transform="1,0,-1178,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:985" transform="1,0,-1249,0,1,2308"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:986" transform="1,0,-1327,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시물 세부 뷰" nodeid="172:1017" transform="1,0,-1022,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="댓글 입력창" imageid="184:1368">
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>댓글을 입력하세요.</base>
+      <string page="Page 1" frame="댓글 입력창" nodeid="I184:1364;54:586" transform="1,0,-1331,0,1,2247"><font val="S-Core Dream:5 Medium"/>댓글을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글 입력창" nodeid="184:1367" transform="1,0,-1016,0,1,2246"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="댓글창" imageid="184:1347">
+  <Frame name="댓글" imageid="184:1313">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1314" transform="1,0,-1336,0,1,2558"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1315;175:1258" transform="1,0,-1015,0,1,2558"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1316">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1317" transform="1,0,-1336,0,1,2526"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1318;175:1258" transform="1,0,-1015,0,1,2526"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1319">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1320" transform="1,0,-1336,0,1,2494"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1321;175:1258" transform="1,0,-1015,0,1,2494"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1322">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1323" transform="1,0,-1336,0,1,2462"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1324;175:1258" transform="1,0,-1015,0,1,2462"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1325">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1326" transform="1,0,-1336,0,1,2430"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1327;175:1258" transform="1,0,-1015,0,1,2430"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1328">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1329" transform="1,0,-1336,0,1,2398"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1330;175:1258" transform="1,0,-1015,0,1,2398"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1331">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1332" transform="1,0,-1336,0,1,2366"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1333;175:1258" transform="1,0,-1015,0,1,2366"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1334">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1335" transform="1,0,-1336,0,1,2334"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1336;175:1258" transform="1,0,-1015,0,1,2334"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1297">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1298" transform="1,0,-1336,0,1,2302"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1299;175:1258" transform="1,0,-1015,0,1,2302"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1300">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1301" transform="1,0,-1336,0,1,2270"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1302;175:1258" transform="1,0,-1015,0,1,2270"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1303">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1304" transform="1,0,-1336,0,1,2238"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1305;175:1258" transform="1,0,-1015,0,1,2238"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1306">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1307" transform="1,0,-1336,0,1,2206"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1308;175:1258" transform="1,0,-1015,0,1,2206"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1289">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1290" transform="1,0,-1336,0,1,2174"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1291;175:1258" transform="1,0,-1015,0,1,2174"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1292">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1293" transform="1,0,-1336,0,1,2142"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1294;175:1258" transform="1,0,-1015,0,1,2142"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1285">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1286" transform="1,0,-1336,0,1,2110"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1287;175:1258" transform="1,0,-1015,0,1,2110"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="댓글" imageid="184:1280">
+    <TextNode>
+      <base>댓글 내용</base>
+      <string page="Page 1" frame="댓글" nodeid="184:1277" transform="1,0,-1336,0,1,2078"><font val="Font Awesome 6 Free:Regular"/>댓글 내용</string>
+    </TextNode>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="댓글" nodeid="I184:1278;175:1258" transform="1,0,-1015,0,1,2078"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  </Frame>
+  <Instance name="좋아요" description="undefined">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I175:1266;175:1258" transform="1,0,-1336,0,1,2047"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Instance>
+  <Frame name="내용" imageid="175:1250">
+    <TextNode>
+      <base>내용을 작성해 주세요<br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/>내용을 작성해 주세요<br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/>내용을 작성해 주세요</base>
+      <string page="Page 1" frame="내용" nodeid="175:1252" transform="1,0,-1336,0,1,1739"><font val="S-Core Dream:5 Medium"/>내용을 작성해 주세요<br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/>내용을 작성해 주세요<br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/><br id="n"/>내용을 작성해 주세요</string>
+    </TextNode>
+  </Frame>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I184:1360;62:2591;53923:27634">
+    <TextNode>
+      <base>신청하기</base>
+      <string page="Page 1" frame="state-layer" nodeid="I184:1360;62:2591;53923:27635" transform="1,0,-1072,0,1,1637"><font val="Roboto:Medium"/>신청하기</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+    <TextNode>
+      <base>모집마감 : 23/11/21 23:59</base>
+      <string page="Page 1" frame="" nodeid="175:1247" transform="1,0,-1148,0,1,1714"><font val="S-Core Dream:5 Medium"/>모집마감 : 23/11/21 23:59</string>
+    </TextNode>
+  <Frame name="모집 인원 수" imageid="175:1248">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="모집 인원 수" nodeid="175:1244" transform="1,0,-1060,0,1,1690"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>1/10</base>
+      <string page="Page 1" frame="모집 인원 수" nodeid="175:1243" transform="1,0,-1032,0,1,1690"><font val="S-Core Dream:5 Medium"/>1/10</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>23/11/10 11:14</base>
+      <string page="Page 1" frame="" nodeid="175:1236" transform="1,0,-1336,0,1,1714"><font val="S-Core Dream:5 Medium"/>23/11/10 11:14</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="" nodeid="175:1138" transform="1,0,-1336,0,1,1690"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>닉네임</base>
+      <string page="Page 1" frame="" nodeid="175:1235" transform="1,0,-1292,0,1,1653"><font val="S-Core Dream:5 Medium"/>닉네임</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1157" transform="1,0,-1326.4224853515625,0,1,1657.9718017578125"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="" nodeid="172:1135" transform="1,0,-1336,0,1,1622"><font val="S-Core Dream:3 Light"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1255" transform="1,0,-1331,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="게시판 뷰" imageid="120:1423">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판 뷰" nodeid="120:1425" transform="1,0,-451,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판 뷰" nodeid="120:1426" transform="1,0,-523,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판 뷰" nodeid="120:1427" transform="1,0,-595,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판 뷰" nodeid="120:1428" transform="1,0,-666,0,1,2308"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판 뷰" nodeid="120:1429" transform="1,0,-744,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Frame name="게시판" imageid="168:6689">
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:842;151:6599" transform="1,0,-454,0,1,2782"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:842;151:6598" transform="1,0,-485,0,1,2782"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:842;151:6596" transform="1,0,-752,0,1,2797"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:842;151:6595" transform="1,0,-752,0,1,2778"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:842;172:738" transform="1,0,-752,0,1,2756"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:841;151:6599" transform="1,0,-454,0,1,2710"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:841;151:6598" transform="1,0,-485,0,1,2710"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:841;151:6596" transform="1,0,-752,0,1,2725"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:841;151:6595" transform="1,0,-752,0,1,2706"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:841;172:738" transform="1,0,-752,0,1,2684"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:840;151:6599" transform="1,0,-454,0,1,2638"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:840;151:6598" transform="1,0,-485,0,1,2638"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:840;151:6596" transform="1,0,-752,0,1,2653"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:840;151:6595" transform="1,0,-752,0,1,2634"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:840;172:738" transform="1,0,-752,0,1,2612"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:803;151:6599" transform="1,0,-454,0,1,2567"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:803;151:6598" transform="1,0,-485,0,1,2567"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:803;151:6596" transform="1,0,-752,0,1,2582"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:803;151:6595" transform="1,0,-752,0,1,2563"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:803;172:738" transform="1,0,-752,0,1,2541"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:802;151:6599" transform="1,0,-454,0,1,2495"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:802;151:6598" transform="1,0,-485,0,1,2495"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:802;151:6596" transform="1,0,-752,0,1,2510"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:802;151:6595" transform="1,0,-752,0,1,2491"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:802;172:738" transform="1,0,-752,0,1,2469"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:801;151:6599" transform="1,0,-454,0,1,2423"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:801;151:6598" transform="1,0,-485,0,1,2423"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:801;151:6596" transform="1,0,-752,0,1,2438"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:801;151:6595" transform="1,0,-752,0,1,2419"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:801;172:738" transform="1,0,-752,0,1,2397"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:800;151:6599" transform="1,0,-454,0,1,2352"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:800;151:6598" transform="1,0,-485,0,1,2352"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:800;151:6596" transform="1,0,-752,0,1,2367"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:800;151:6595" transform="1,0,-752,0,1,2348"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:800;172:738" transform="1,0,-752,0,1,2326"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:799;151:6599" transform="1,0,-454,0,1,2280"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:799;151:6598" transform="1,0,-485,0,1,2280"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:799;151:6596" transform="1,0,-752,0,1,2295"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:799;151:6595" transform="1,0,-752,0,1,2276"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:799;172:738" transform="1,0,-752,0,1,2254"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:798;151:6599" transform="1,0,-454,0,1,2208"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:798;151:6598" transform="1,0,-485,0,1,2208"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:798;151:6596" transform="1,0,-752,0,1,2223"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:798;151:6595" transform="1,0,-752,0,1,2204"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:798;172:738" transform="1,0,-752,0,1,2182"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:779;151:6599" transform="1,0,-454,0,1,2137"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:779;151:6598" transform="1,0,-485,0,1,2137"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:779;151:6596" transform="1,0,-752,0,1,2152"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:779;151:6595" transform="1,0,-752,0,1,2133"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:779;172:738" transform="1,0,-752,0,1,2111"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:778;151:6599" transform="1,0,-454,0,1,2065"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:778;151:6598" transform="1,0,-485,0,1,2065"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:778;151:6596" transform="1,0,-752,0,1,2080"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:778;151:6595" transform="1,0,-752,0,1,2061"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:778;172:738" transform="1,0,-752,0,1,2039"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:777;151:6599" transform="1,0,-454,0,1,1993"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:777;151:6598" transform="1,0,-485,0,1,1993"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:777;151:6596" transform="1,0,-752,0,1,2008"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:777;151:6595" transform="1,0,-752,0,1,1989"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:777;172:738" transform="1,0,-752,0,1,1967"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:755;151:6599" transform="1,0,-454,0,1,1922"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:755;151:6598" transform="1,0,-485,0,1,1922"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:755;151:6596" transform="1,0,-752,0,1,1937"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:755;151:6595" transform="1,0,-752,0,1,1918"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:755;172:738" transform="1,0,-752,0,1,1896"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:748;151:6599" transform="1,0,-454,0,1,1850"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:748;151:6598" transform="1,0,-485,0,1,1850"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:748;151:6596" transform="1,0,-752,0,1,1865"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:748;151:6595" transform="1,0,-752,0,1,1846"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:748;172:738" transform="1,0,-752,0,1,1824"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="게시글" description="undefined">
+    <TextNode>
+      <base>1/12</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:741;151:6599" transform="1,0,-454,0,1,1778"><font val="S-Core Dream:5 Medium"/>1/12</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="게시판" nodeid="I172:741;151:6598" transform="1,0,-485,0,1,1778"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내용 내용 내용</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:741;151:6596" transform="1,0,-752,0,1,1793"><font val="S-Core Dream:5 Medium"/>내용 내용 내용</string>
+    </TextNode>
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:741;151:6595" transform="1,0,-752,0,1,1774"><font val="S-Core Dream:6 Bold"/>제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판" nodeid="I172:741;172:738" transform="1,0,-752,0,1,1752"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="168:6691" transform="1,0,-450,0,1,2235"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="게시판 목록" imageid="126:6589">
+  <Frame name="게시판 종류" imageid="126:6583">
+  <Instance name="자유 게시판" description="undefined">
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="게시판 종류" nodeid="I120:6549;120:6538" transform="1,0,-739,0,1,1712"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="취미 게시판" description="undefined">
+    <TextNode>
+      <base>취미 게시판</base>
+      <string page="Page 1" frame="게시판 종류" nodeid="I120:6552;120:6538" transform="1,0,-569,0,1,1712"><font val="S-Core Dream:5 Medium"/>취미 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="대회/공모전 게시판" description="undefined">
+    <TextNode>
+      <base>대회/공모전 게시판</base>
+      <string page="Page 1" frame="게시판 종류" nodeid="I120:6555;120:6538" transform="1,0,-394.40625,0,1,1712"><font val="S-Core Dream:5 Medium"/>대회/공모전 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="대외활동 게시판" description="undefined">
+    <TextNode>
+      <base>대외활동 게시판</base>
+      <string page="Page 1" frame="게시판 종류" nodeid="I120:6561;120:6538" transform="1,0,-178.3125,0,1,1712"><font val="S-Core Dream:5 Medium"/>대외활동 게시판</string>
+    </TextNode>
+  </Instance>
+  <Instance name="스터디 게시판" description="undefined">
+    <TextNode>
+      <base>스터디 게시판</base>
+      <string page="Page 1" frame="게시판 종류" nodeid="I120:6564;120:6538" transform="1,0,8,0,1,1712"><font val="S-Core Dream:5 Medium"/>스터디 게시판</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  </Frame>
+  <Instance name="search form" description="undefined">
+  <Frame name="Search bar-dark" imageid="I120:6520;120:6476">
+  <Frame name="state-layer" imageid="I120:6520;120:6477">
+  <Frame name="Content" imageid="I120:6520;120:6479">
+    <TextNode>
+      <base>search</base>
+      <string page="Page 1" frame="Content" nodeid="I120:6520;120:6480" transform="1,0,-700.7999877929688,0,1,1642.5001220703125"><font val="Roboto:Regular"/>search</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Frame>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="120:1486" transform="1,0,-439,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="175:1234" transform="1,0,-748,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="일정 뷰" imageid="96:1057">
+  <Instance name="Modal Date Picker-dark" description="undefined">
+  <Frame name="Header" imageid="I109:1137;61:2148">
+  <Frame name="Label and Date" imageid="I109:1137;61:2149">
+    <TextNode>
+      <base>Select date</base>
+      <string page="Page 1" frame="Label and Date" nodeid="I109:1137;61:2150" transform="1,0,-140,0,1,1624"><font val="Roboto:Medium"/>Select date</string>
+    </TextNode>
+    <TextNode>
+      <base>Friday, Nov 17</base>
+      <string page="Page 1" frame="Label and Date" nodeid="I109:1137;61:2151" transform="1,0,-140,0,1,1676"><font val="Roboto:Regular"/>Friday, Nov 17</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Local Calendar grid" imageid="I109:1137;61:2158">
+  <Frame name="Local Selection Row" imageid="I109:1137;61:2153">
+  <Instance name="Building blocks/Menu button-dark" description="undefined">
+  <Frame name="state-layer" imageid="I109:1137;61:2154;51954:19690">
+    <TextNode>
+      <base>November 2023</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2154;51954:19691" transform="1,0,-128,0,1,1650"><font val="Roboto:Medium"/>November 2023</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Days of the week" imageid="I109:1137;61:2159">
+  <Frame name="Sunday" imageid="I109:1137;61:2160">
+    <TextNode>
+      <base>S</base>
+      <string page="Page 1" frame="Sunday" nodeid="I109:1137;61:2161" transform="1,0,-135.2857208251953,0,1,1700"><font val="Roboto:Regular"/>S</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Monday" imageid="I109:1137;61:2162">
+    <TextNode>
+      <base>M</base>
+      <string page="Page 1" frame="Monday" nodeid="I109:1137;61:2163" transform="1,0,-93.85713958740234,0,1,1700"><font val="Roboto:Regular"/>M</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Tuesday" imageid="I109:1137;61:2164">
+    <TextNode>
+      <base>T</base>
+      <string page="Page 1" frame="Tuesday" nodeid="I109:1137;61:2165" transform="1,0,-48.428565979003906,0,1,1700"><font val="Roboto:Regular"/>T</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Wednesday" imageid="I109:1137;61:2166">
+    <TextNode>
+      <base>W</base>
+      <string page="Page 1" frame="Wednesday" nodeid="I109:1137;61:2167" transform="1,0,-7.499992370605469,0,1,1700"><font val="Roboto:Regular"/>W</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Thursday" imageid="I109:1137;61:2168">
+    <TextNode>
+      <base>T</base>
+      <string page="Page 1" frame="Thursday" nodeid="I109:1137;61:2169" transform="1,0,38.42858123779297,0,1,1700"><font val="Roboto:Regular"/>T</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Friday" imageid="I109:1137;61:2170">
+    <TextNode>
+      <base>F</base>
+      <string page="Page 1" frame="Friday" nodeid="I109:1137;61:2171" transform="1,0,82.3571548461914,0,1,1700"><font val="Roboto:Regular"/>F</string>
+    </TextNode>
+  </Frame>
+  <Frame name="Saturday" imageid="I109:1137;61:2172">
+    <TextNode>
+      <base>S</base>
+      <string page="Page 1" frame="Saturday" nodeid="I109:1137;61:2173" transform="1,0,125.28572845458984,0,1,1700"><font val="Roboto:Regular"/>S</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Week 1" imageid="I109:1137;61:2174">
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2177;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2177;51954:19546">
+    <TextNode>
+      <base>1</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2177;51954:19547" transform="1,0,7.5,0,1,1748"><font val="Roboto:Regular"/>1</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2178;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2178;51954:19546">
+    <TextNode>
+      <base>2</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2178;51954:19547" transform="1,0,47.5,0,1,1748"><font val="Roboto:Regular"/>2</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2179;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2179;51954:19546">
+    <TextNode>
+      <base>3</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2179;51954:19547" transform="1,0,87.5,0,1,1748"><font val="Roboto:Regular"/>3</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2180;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2180;51954:19546">
+    <TextNode>
+      <base>4</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2180;51954:19547" transform="1,0,127.5,0,1,1748"><font val="Roboto:Regular"/>4</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 2" imageid="I109:1137;61:2182">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2181;51954:19567">
+  <Frame name="state-layer" imageid="I109:1137;61:2181;51954:19568">
+    <TextNode>
+      <base>5</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2181;51954:19569" transform="1,0,-134.7857208251953,0,1,1796"><font val="Roboto:Regular"/>5</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2183;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2183;51954:19546">
+    <TextNode>
+      <base>6</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2183;51954:19547" transform="1,0,-91.35713958740234,0,1,1796"><font val="Roboto:Regular"/>6</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2184;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2184;51954:19546">
+    <TextNode>
+      <base>7</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2184;51954:19547" transform="1,0,-47.928565979003906,0,1,1796"><font val="Roboto:Regular"/>7</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2185;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2185;51954:19546">
+    <TextNode>
+      <base>8</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2185;51954:19547" transform="1,0,-4.499992370605469,0,1,1796"><font val="Roboto:Regular"/>8</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2186;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2186;51954:19546">
+    <TextNode>
+      <base>9</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2186;51954:19547" transform="1,0,38.92858123779297,0,1,1796"><font val="Roboto:Regular"/>9</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2187;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2187;51954:19546">
+    <TextNode>
+      <base>10</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2187;51954:19547" transform="1,0,77.3571548461914,0,1,1796"><font val="Roboto:Regular"/>10</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2188;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2188;51954:19546">
+    <TextNode>
+      <base>11</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2188;51954:19547" transform="1,0,120.78572845458984,0,1,1796"><font val="Roboto:Regular"/>11</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 3" imageid="I109:1137;61:2190">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2189;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2189;51954:19546">
+    <TextNode>
+      <base>12</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2189;51954:19547" transform="1,0,-139.7857208251953,0,1,1844"><font val="Roboto:Regular"/>12</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2191;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2191;51954:19546">
+    <TextNode>
+      <base>13</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2191;51954:19547" transform="1,0,-96.35713958740234,0,1,1844"><font val="Roboto:Regular"/>13</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2192;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2192;51954:19546">
+    <TextNode>
+      <base>14</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2192;51954:19547" transform="1,0,-52.928565979003906,0,1,1844"><font val="Roboto:Regular"/>14</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2193;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2193;51954:19546">
+    <TextNode>
+      <base>15</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2193;51954:19547" transform="1,0,-9.499992370605469,0,1,1844"><font val="Roboto:Regular"/>15</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2194;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2194;51954:19546">
+    <TextNode>
+      <base>16</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2194;51954:19547" transform="1,0,33.92858123779297,0,1,1844"><font val="Roboto:Regular"/>16</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Building Blocks/M3 calendar cell-dark" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2195;51954:19590">
+  <Frame name="state-layer" imageid="I109:1137;61:2195;51954:19591">
+    <TextNode>
+      <base>17</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2195;51954:19592" transform="1,0,77.3571548461914,0,1,1844"><font val="Roboto:Regular"/>17</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2196;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2196;51954:19546">
+    <TextNode>
+      <base>18</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2196;51954:19547" transform="1,0,120.78572845458984,0,1,1844"><font val="Roboto:Regular"/>18</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 4" imageid="I109:1137;61:2198">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2197;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2197;51954:19546">
+    <TextNode>
+      <base>19</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2197;51954:19547" transform="1,0,-139.7857208251953,0,1,1892"><font val="Roboto:Regular"/>19</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2199;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2199;51954:19546">
+    <TextNode>
+      <base>20</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2199;51954:19547" transform="1,0,-96.35713958740234,0,1,1892"><font val="Roboto:Regular"/>20</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2200;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2200;51954:19546">
+    <TextNode>
+      <base>21</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2200;51954:19547" transform="1,0,-52.928565979003906,0,1,1892"><font val="Roboto:Regular"/>21</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2201;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2201;51954:19546">
+    <TextNode>
+      <base>22</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2201;51954:19547" transform="1,0,-9.499992370605469,0,1,1892"><font val="Roboto:Regular"/>22</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2202;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2202;51954:19546">
+    <TextNode>
+      <base>23</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2202;51954:19547" transform="1,0,33.92858123779297,0,1,1892"><font val="Roboto:Regular"/>23</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Thursday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2203;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2203;51954:19546">
+    <TextNode>
+      <base>24</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2203;51954:19547" transform="1,0,77.3571548461914,0,1,1892"><font val="Roboto:Regular"/>24</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Friday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2204;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2204;51954:19546">
+    <TextNode>
+      <base>25</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2204;51954:19547" transform="1,0,120.78572845458984,0,1,1892"><font val="Roboto:Regular"/>25</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  <Frame name="Week 5" imageid="I109:1137;61:2206">
+  <Instance name="Saturday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2205;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2205;51954:19546">
+    <TextNode>
+      <base>26</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2205;51954:19547" transform="1,0,-140.6999969482422,0,1,1940"><font val="Roboto:Regular"/>26</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Sunday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2207;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2207;51954:19546">
+    <TextNode>
+      <base>27</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2207;51954:19547" transform="1,0,-99.10000610351562,0,1,1940"><font val="Roboto:Regular"/>27</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Monday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2208;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2208;51954:19546">
+    <TextNode>
+      <base>28</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2208;51954:19547" transform="1,0,-57.5,0,1,1940"><font val="Roboto:Regular"/>28</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Tuesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2209;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2209;51954:19546">
+    <TextNode>
+      <base>29</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2209;51954:19547" transform="1,0,-15.900005340576172,0,1,1940"><font val="Roboto:Regular"/>29</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  <Instance name="Wednesday" description="undefined">
+  <Frame name="container" imageid="I109:1137;61:2210;51954:19545">
+  <Frame name="state-layer" imageid="I109:1137;61:2210;51954:19546">
+    <TextNode>
+      <base>30</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2210;51954:19547" transform="1,0,25.699993133544922,0,1,1940"><font val="Roboto:Regular"/>30</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+  <Frame name="Local Actions" imageid="I109:1137;61:2222">
+  <Instance name="Secondary button" description="undefined">
+  <Frame name="state-layer" imageid="I109:1137;61:2223;53923:27747">
+    <TextNode>
+      <base>Cancel</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2223;53923:27748" transform="1,0,69,0,1,2114"><font val="Roboto:Medium"/>Cancel</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  <Instance name="Primary button" description="undefined">
+  <Frame name="state-layer" imageid="I109:1137;61:2224;53923:27747">
+    <TextNode>
+      <base>OK</base>
+      <string page="Page 1" frame="state-layer" nodeid="I109:1137;61:2224;53923:27748" transform="1,0,145,0,1,2114"><font val="Roboto:Medium"/>OK</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Instance>
+  <Frame name="Frame 3295" imageid="203:12399">
+  <Frame name="소속 그룹8" imageid="112:1347">
+    <TextNode>
+      <base>헬스 모임 연말 회식식</base>
+      <string page="Page 1" frame="소속 그룹8" nodeid="112:1348" transform="1,0,-160,0,1,2396"><font val="S-Core Dream:5 Medium"/>헬스 모임 연말 회식식</string>
+    </TextNode>
+    <TextNode>
+      <base>23.12.20</base>
+      <string page="Page 1" frame="소속 그룹8" nodeid="112:1349" transform="1,0,110,0,1,2411"><font val="S-Core Dream:3 Light"/>23.12.20</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹7" imageid="112:1344">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 공연</base>
+      <string page="Page 1" frame="소속 그룹7" nodeid="112:1345" transform="1,0,-160,0,1,2346"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 공연</string>
+    </TextNode>
+    <TextNode>
+      <base>23.12.05-23.12.07</base>
+      <string page="Page 1" frame="소속 그룹7" nodeid="112:1346" transform="1,0,63,0,1,2361"><font val="S-Core Dream:3 Light"/>23.12.05-23.12.07</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹6" imageid="112:1338">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 무대 작업</base>
+      <string page="Page 1" frame="소속 그룹6" nodeid="112:1339" transform="1,0,-160,0,1,2296"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 무대 작업</string>
+    </TextNode>
+    <TextNode>
+      <base>23.12.01-23.12.03</base>
+      <string page="Page 1" frame="소속 그룹6" nodeid="112:1340" transform="1,0,63,0,1,2311"><font val="S-Core Dream:3 Light"/>23.12.01-23.12.03</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹5" imageid="112:1341">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>발표</base>
+      <string page="Page 1" frame="소속 그룹5" nodeid="112:1342" transform="1,0,-160,0,1,2247"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>발표</string>
+    </TextNode>
+    <TextNode>
+      <base>23.11.27</base>
+      <string page="Page 1" frame="소속 그룹5" nodeid="112:1343" transform="1,0,110,0,1,2262"><font val="S-Core Dream:3 Light"/>23.11.27</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹4" imageid="96:1088">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>개발 기간</base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="96:1089" transform="1,0,-160,0,1,2196"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>개발 기간</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.20-23.11.20</base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="96:1090" transform="1,0,63,0,1,2211"><font val="S-Core Dream:3 Light"/>23.09.20-23.11.20</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹3" imageid="112:1335">
+    <TextNode>
+      <base>스키 모임 ‘보더’ 강원도 스키 여행</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="112:1336" transform="1,0,-160,0,1,2146"><font val="S-Core Dream:5 Medium"/>스키 모임 ‘보더’ 강원도 스키 여행</string>
+    </TextNode>
+    <TextNode>
+      <base>23.12.20-23.12.21</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="112:1337" transform="1,0,63,0,1,2161"><font val="S-Core Dream:3 Light"/>23.12.20-23.12.21</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹2" imageid="96:1091">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 공연 연습</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="96:1092" transform="1,0,-160,0,1,2096"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 공연 연습</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.17-23.11.30</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="96:1093" transform="1,0,63,0,1,2111"><font val="S-Core Dream:3 Light"/>23.09.17-23.11.30</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹1" imageid="96:1094">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>디자인 회의</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="96:1095" transform="1,0,-160,0,1,2046"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>디자인 회의</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.15</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="96:1096" transform="1,0,110,0,1,2061"><font val="S-Core Dream:3 Light"/>23.09.15</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>내 일정</base>
+      <string page="Page 1" frame="" nodeid="96:1098" transform="1,0,-160,0,1,2013"><font val="S-Core Dream:6 Bold"/>내 일정</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1059" transform="1,0,132,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1060" transform="1,0,60,0,1,2307"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1061" transform="1,0,-12,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1062" transform="1,0,-83,0,1,2308"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1063" transform="1,0,-161,0,1,2307"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:1120" transform="1,0,144,0,1,1572"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="184:1388" transform="1,0,-165,0,1,1572"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Instance name="로그아웃 팝업" description="undefined">
+  <Instance name="Basic dialog-dark" description="undefined">
+  <Frame name="Text Content" imageid="I96:969;96:946;52112:32136">
+  <Frame name="Title &amp; Description " imageid="I96:969;96:946;52112:32137">
+    <TextNode>
+      <base>로그아웃하시겠습니까?</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I96:969;96:946;52112:32138" transform="1,0,3144,0,1,-66"><font val="S-Core Dream:5 Medium"/>로그아웃하시겠습니까?</string>
+    </TextNode>
+    <TextNode>
+      <base>정말 로그아웃 하시겠습니까?</base>
+      <string page="Page 1" frame="Title &amp; Description " nodeid="I96:969;96:946;52112:32139" transform="1,0,3144,0,1,-18"><font val="Roboto:Regular"/>정말 로그아웃 하시겠습니까?</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="Actions" imageid="I96:969;96:946;52112:32140">
+  <Frame name="Actions" imageid="I96:969;96:946;52112:32141">
+  <Instance name="Secondary button" description="undefined">
+  <Frame name="state-layer" imageid="I96:969;96:946;52112:32142;53923:27747">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I96:969;96:946;52112:32142;53923:27748" transform="1,0,3312,0,1,36"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  <Instance name="Primary button" description="undefined">
+  <Frame name="state-layer" imageid="I96:969;96:946;52112:32143;53923:27747">
+    <TextNode>
+      <base>취소</base>
+      <string page="Page 1" frame="state-layer" nodeid="I96:969;96:946;52112:32143;53923:27748" transform="1,0,3370,0,1,36"><font val="Roboto:Medium"/>취소</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Frame>
+  </Frame>
+  </Instance>
+  </Instance>
+  <Frame name="문의하기 뷰" imageid="96:859">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="문의하기 뷰" nodeid="96:861" transform="1,0,3005,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="문의하기 뷰" nodeid="96:862" transform="1,0,2933,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="문의하기 뷰" nodeid="96:863" transform="1,0,2861,0,1,357"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="문의하기 뷰" nodeid="96:864" transform="1,0,2790,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="문의하기 뷰" nodeid="96:865" transform="1,0,2712,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="확인" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I96:866;62:2591;53923:27634">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I96:866;62:2591;53923:27635" transform="1,0,2985,0,1,67"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+  <Frame name="내용" imageid="96:915">
+    <TextNode>
+      <base>내용</base>
+      <string page="Page 1" frame="내용" nodeid="96:916" transform="1,0,2719,0,1,-195"><font val="S-Core Dream:5 Medium"/>내용</string>
+    </TextNode>
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>내용을 입력하세요</base>
+      <string page="Page 1" frame="내용" nodeid="I96:917;54:586" transform="1,0,2729,0,1,-76"><font val="S-Core Dream:5 Medium"/>내용을 입력하세요</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="제목" imageid="96:914">
+    <TextNode>
+      <base>제목</base>
+      <string page="Page 1" frame="제목" nodeid="96:910" transform="1,0,2719,0,1,-293"><font val="S-Core Dream:5 Medium"/>제목</string>
+    </TextNode>
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>내용을 입력하세요</base>
+      <string page="Page 1" frame="제목" nodeid="I96:911;54:586" transform="1,0,2729,0,1,-253"><font val="S-Core Dream:5 Medium"/>내용을 입력하세요</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:890" transform="1,0,3017,0,1,-378"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="96:892" transform="1,0,2708,0,1,-378"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="알림설정 뷰" imageid="90:737">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="알림설정 뷰" nodeid="90:739" transform="1,0,2605,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="알림설정 뷰" nodeid="90:740" transform="1,0,2533,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="알림설정 뷰" nodeid="90:741" transform="1,0,2461,0,1,357"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="알림설정 뷰" nodeid="90:742" transform="1,0,2390,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="알림설정 뷰" nodeid="90:743" transform="1,0,2312,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="확인" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I90:748;62:2591;53923:27634">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I90:748;62:2591;53923:27635" transform="1,0,2585,0,1,67"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+    <TextNode>
+      <base>+</base>
+      <string page="Page 1" frame="" nodeid="94:832" transform="1,0,2438,0,1,2"><font val="S-Core Dream:5 Medium"/>+</string>
+    </TextNode>
+  <Frame name="keywords4" imageid="94:853">
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>Keywords1</base>
+      <string page="Page 1" frame="keywords4" nodeid="I94:854;54:586" transform="1,0,2438,0,1,-29"><font val="S-Core Dream:5 Medium"/>Keywords1</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="keywords4" nodeid="94:855" transform="1,0,2618,0,1,-27"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="keywords3" imageid="94:848">
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>Keywords1</base>
+      <string page="Page 1" frame="keywords3" nodeid="I94:849;54:586" transform="1,0,2438,0,1,-62"><font val="S-Core Dream:5 Medium"/>Keywords1</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="keywords3" nodeid="94:850" transform="1,0,2618,0,1,-60"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="keywords2" imageid="94:838">
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>Keywords1</base>
+      <string page="Page 1" frame="keywords2" nodeid="I94:839;54:586" transform="1,0,2438,0,1,-95"><font val="S-Core Dream:5 Medium"/>Keywords1</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="keywords2" nodeid="94:840" transform="1,0,2618,0,1,-93"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="keywords1" imageid="94:837">
+  <Instance name="form mini button" description="undefined">
+    <TextNode>
+      <base>Keywords1</base>
+      <string page="Page 1" frame="keywords1" nodeid="I94:833;54:586" transform="1,0,2438,0,1,-128"><font val="S-Core Dream:5 Medium"/>Keywords1</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="keywords1" nodeid="94:836" transform="1,0,2618,0,1,-126"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>키워드 알림</base>
+      <string page="Page 1" frame="" nodeid="94:796" transform="1,0,2307,0,1,-127"><font val="S-Core Dream:5 Medium"/>키워드 알림</string>
+    </TextNode>
+  <Frame name="진동" imageid="94:791">
+    <TextNode>
+      <base>진동</base>
+      <string page="Page 1" frame="진동" nodeid="94:792" transform="1,0,2331,0,1,-204"><font val="S-Core Dream:5 Medium"/>진동</string>
+    </TextNode>
+  </Frame>
+  <Frame name="무음" imageid="94:790">
+    <TextNode>
+      <base>무음</base>
+      <string page="Page 1" frame="무음" nodeid="90:769" transform="1,0,2331,0,1,-288"><font val="S-Core Dream:5 Medium"/>무음</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="90:745" transform="1,0,2617,0,1,-378"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="90:747" transform="1,0,2308,0,1,-378"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="비밀번호 변경 뷰" imageid="90:696">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:698" transform="1,0,2178,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:699" transform="1,0,2106,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:700" transform="1,0,2034,0,1,357"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:701" transform="1,0,1963,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:702" transform="1,0,1885,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:704" transform="1,0,2190,0,1,-378"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="비밀번호 변경 뷰" nodeid="90:706" transform="1,0,1881,0,1,-378"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I90:707;62:2591;53923:27634">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I90:707;62:2591;53923:27635" transform="1,0,2136,0,1,-47"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+    <TextNode>
+      <base>비밀번호 확인</base>
+      <string page="Page 1" frame="" nodeid="90:709" transform="1,0,1906,0,1,-151"><font val="S-Core Dream:5 Medium"/>비밀번호 확인</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="" nodeid="I90:710;54:586" transform="1,0,1915,0,1,-110"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>새 비밀번호</base>
+      <string page="Page 1" frame="" nodeid="90:733" transform="1,0,1906,0,1,-239"><font val="S-Core Dream:5 Medium"/>새 비밀번호</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="" nodeid="I90:734;54:586" transform="1,0,1915,0,1,-198"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>현재 비밀번호</base>
+      <string page="Page 1" frame="" nodeid="90:717" transform="1,0,1906,0,1,-326"><font val="S-Core Dream:5 Medium"/>현재 비밀번호</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="" nodeid="I90:718;54:586" transform="1,0,1915,0,1,-285"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="좋아요 뷰" imageid="90:622">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:624" transform="1,0,1751,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:625" transform="1,0,1679,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:626" transform="1,0,1607,0,1,357"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:627" transform="1,0,1536,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:628" transform="1,0,1458,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:691" transform="1,0,1454,0,1,104"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:692" transform="1,0,1454,0,1,84"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:693" transform="1,0,1454,0,1,64"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:695" transform="1,0,1742,0,1,12"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:686" transform="1,0,1454,0,1,32"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:687" transform="1,0,1454,0,1,12"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:688" transform="1,0,1454,0,1,-8"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:681" transform="1,0,1454,0,1,-38"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:682" transform="1,0,1454,0,1,-58"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:683" transform="1,0,1454,0,1,-78"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:676" transform="1,0,1454,0,1,-109"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:677" transform="1,0,1454,0,1,-129"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:678" transform="1,0,1454,0,1,-149"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:671" transform="1,0,1454,0,1,-176"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:672" transform="1,0,1454,0,1,-196"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:673" transform="1,0,1454,0,1,-216"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:694" transform="1,0,1742,0,1,-267"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>글 내용 미리보기</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:667" transform="1,0,1454,0,1,-247"><font val="S-Core Dream:5 Medium"/>글 내용 미리보기</string>
+    </TextNode>
+    <TextNode>
+      <base>글 제목</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:666" transform="1,0,1454,0,1,-267"><font val="S-Core Dream:6 Bold"/>글 제목</string>
+    </TextNode>
+    <TextNode>
+      <base>자유 게시판</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:665" transform="1,0,1454,0,1,-287"><font val="S-Core Dream:5 Medium"/>자유 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base>좋아요 글 목록</base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:659" transform="1,0,1454,0,1,-328"><font val="S-Core Dream:5 Medium"/>좋아요 글 목록</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:630" transform="1,0,1763,0,1,-378"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="좋아요 뷰" nodeid="90:632" transform="1,0,1454,0,1,-378"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="내 프로필 수정 뷰" imageid="74:528">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:530" transform="1,0,1324,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:531" transform="1,0,1252,0,1,357"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:532" transform="1,0,1180,0,1,357"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:533" transform="1,0,1109,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:534" transform="1,0,1031,0,1,358"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:575" transform="1,0,1336,0,1,-378"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="내 프로필 수정 뷰" nodeid="74:577" transform="1,0,1027,0,1,-378"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I90:610;62:2591;53923:27634">
+    <TextNode>
+      <base>확인</base>
+      <string page="Page 1" frame="state-layer" nodeid="I90:610;62:2591;53923:27635" transform="1,0,1282,0,1,-47"><font val="Roboto:Medium"/>확인</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+    <TextNode>
+      <base>지역</base>
+      <string page="Page 1" frame="" nodeid="90:595" transform="1,0,1052,0,1,-151"><font val="S-Core Dream:5 Medium"/>지역</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="" nodeid="I90:596;54:586" transform="1,0,1061,0,1,-110"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+  <Instance name="day" description="undefined">
+    <TextNode>
+      <base>year</base>
+      <string page="Page 1" frame="" nodeid="I90:600;54:586" transform="1,0,1061,0,1,-196"><font val="S-Core Dream:5 Medium"/>year</string>
+    </TextNode>
+  </Instance>
+  <Instance name="month" description="undefined">
+    <TextNode>
+      <base>month</base>
+      <string page="Page 1" frame="" nodeid="I90:601;54:586" transform="1,0,1156,0,1,-196"><font val="S-Core Dream:5 Medium"/>month</string>
+    </TextNode>
+  </Instance>
+  <Instance name="year" description="undefined">
+    <TextNode>
+      <base>day</base>
+      <string page="Page 1" frame="" nodeid="I90:602;54:586" transform="1,0,1252,0,1,-196"><font val="S-Core Dream:5 Medium"/>day</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>생년월일</base>
+      <string page="Page 1" frame="" nodeid="90:603" transform="1,0,1051,0,1,-240"><font val="S-Core Dream:5 Medium"/>생년월일</string>
+    </TextNode>
+    <TextNode>
+      <base>닉네임</base>
+      <string page="Page 1" frame="" nodeid="90:590" transform="1,0,1052,0,1,-326"><font val="S-Core Dream:5 Medium"/>닉네임</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="" nodeid="I90:591;54:586" transform="1,0,1061,0,1,-285"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+  </Frame>
+  <Frame name="프로필 뷰" imageid="74:415">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:417" transform="1,0,715,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:418" transform="1,0,643,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:419" transform="1,0,571,0,1,1315"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:420" transform="1,0,500,0,1,1316"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:421" transform="1,0,422,0,1,1316"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base>로그아웃</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:524" transform="1,0,417,0,1,1234"><font val="S-Core Dream:5 Medium"/>로그아웃</string>
+    </TextNode>
+    <TextNode>
+      <base>문의하기</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:521" transform="1,0,417,0,1,1184"><font val="S-Core Dream:5 Medium"/>문의하기</string>
+    </TextNode>
+    <TextNode>
+      <base>알림 설정</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:527" transform="1,0,417,0,1,1134"><font val="S-Core Dream:5 Medium"/>알림 설정</string>
+    </TextNode>
+    <TextNode>
+      <base>비밀번호 변경</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:518" transform="1,0,417,0,1,1084"><font val="S-Core Dream:5 Medium"/>비밀번호 변경</string>
+    </TextNode>
+    <TextNode>
+      <base>계정</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:515" transform="1,0,565,0,1,1030"><font val="S-Core Dream:6 Bold"/>계정</string>
+    </TextNode>
+    <TextNode>
+      <base>좋아요</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:512" transform="1,0,417,0,1,977"><font val="S-Core Dream:5 Medium"/>좋아요</string>
+    </TextNode>
+    <TextNode>
+      <base>내 프로필 정보 수정</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:501" transform="1,0,417,0,1,927"><font val="S-Core Dream:5 Medium"/>내 프로필 정보 수정</string>
+    </TextNode>
+    <TextNode>
+      <base>계정</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:499" transform="1,0,566,0,1,825"><font val="S-Core Dream:6 Bold"/>계정</string>
+    </TextNode>
+    <TextNode>
+      <base>내 정보</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:476" transform="1,0,423,0,1,637"><font val="S-Core Dream:6 Bold"/>내 정보</string>
+    </TextNode>
+    <TextNode>
+      <base>이름</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:490" transform="1,0,513,0,1,683"><font val="S-Core Dream:5 Medium"/>이름</string>
+    </TextNode>
+    <TextNode>
+      <base>나이</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:492" transform="1,0,513,0,1,707"><font val="S-Core Dream:5 Medium"/>나이</string>
+    </TextNode>
+    <TextNode>
+      <base>e-mail address</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:493" transform="1,0,513,0,1,729"><font val="S-Core Dream:5 Medium"/>e-mail address</string>
+    </TextNode>
+    <TextNode>
+      <base>location (-시 -구)</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:494" transform="1,0,512,0,1,750"><font val="S-Core Dream:5 Medium"/>location (-시 -구)</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:484" transform="1,0,443,0,1,700"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:478" transform="1,0,727,0,1,580"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="74:482" transform="1,0,418,0,1,580"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base>내 프로필 이미지 수정</base>
+      <string page="Page 1" frame="프로필 뷰" nodeid="175:1188" transform="1,0,417,0,1,878"><font val="S-Core Dream:5 Medium"/>내 프로필 이미지 수정</string>
+    </TextNode>
+  </Frame>
+  <Frame name="홈 뷰" imageid="58:106">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:413" transform="1,0,132,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:412" transform="1,0,60,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:411" transform="1,0,-12,0,1,1315"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:409" transform="1,0,-83,0,1,1316"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:405" transform="1,0,-161,0,1,1315"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base>더 보기</base>
+      <string page="Page 1" frame="홈 뷰" nodeid="74:370" transform="1,0,115,0,1,1248"><font val="S-Core Dream:5 Medium"/>더 보기</string>
+    </TextNode>
+  <Frame name="즐겨찾기 게시판4" imageid="74:401">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="즐겨찾기 게시판4" nodeid="74:402" transform="1,0,-3,0,1,1203"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="소속 그룹2" imageid="74:403">
+    <TextNode>
+      <base>스터디 게시판</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="74:404" transform="1,0,26,0,1,1188"><font val="S-Core Dream:5 Medium"/>스터디 게시판</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="즐겨찾기 게시판3" imageid="74:392">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="즐겨찾기 게시판3" nodeid="74:390" transform="1,0,-160,0,1,1203"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="소속 그룹2" imageid="74:374">
+    <TextNode>
+      <base>대회/공모전 게시판</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="74:375" transform="1,0,-131,0,1,1188"><font val="S-Core Dream:5 Medium"/>대회/공모전 게시판</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="즐겨찾기 게시판2" imageid="74:393">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="즐겨찾기 게시판2" nodeid="74:394" transform="1,0,0,0,1,1153"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="소속 그룹1" imageid="74:395">
+    <TextNode>
+      <base>취미 게시판</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="74:396" transform="1,0,29,0,1,1138"><font val="S-Core Dream:5 Medium"/>취미 게시판</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+  <Frame name="즐겨찾기 게시판1" imageid="74:391">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="즐겨찾기 게시판1" nodeid="74:389" transform="1,0,-160,0,1,1153"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  <Frame name="소속 그룹1" imageid="74:377">
+    <TextNode>
+      <base>운동 게시판</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="74:378" transform="1,0,-131,0,1,1138"><font val="S-Core Dream:5 Medium"/>운동 게시판</string>
+    </TextNode>
+  </Frame>
+  </Frame>
+    <TextNode>
+      <base>즐겨찾기 게시판</base>
+      <string page="Page 1" frame="" nodeid="74:381" transform="1,0,-160,0,1,1105"><font val="S-Core Dream:6 Bold"/>즐겨찾기 게시판</string>
+    </TextNode>
+    <TextNode>
+      <base>더 보기</base>
+      <string page="Page 1" frame="" nodeid="74:339" transform="1,0,115,0,1,1054"><font val="S-Core Dream:5 Medium"/>더 보기</string>
+    </TextNode>
+  <Frame name="소속 그룹3" imageid="74:345">
+    <TextNode>
+      <base>스키 모임 ‘보더’ 강원도 스키 여행</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="74:346" transform="1,0,-160,0,1,1004"><font val="S-Core Dream:5 Medium"/>스키 모임 ‘보더’ 강원도 스키 여행</string>
+    </TextNode>
+    <TextNode>
+      <base>23.12.20-23.12.21</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="74:349" transform="1,0,63,0,1,1019"><font val="S-Core Dream:3 Light"/>23.12.20-23.12.21</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹2" imageid="74:350">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 공연 연습</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="74:351" transform="1,0,-160,0,1,954"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 공연 연습</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.17-23.11.30</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="74:354" transform="1,0,63,0,1,969"><font val="S-Core Dream:3 Light"/>23.09.17-23.11.30</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹1" imageid="74:340">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>디자인 회의</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="74:341" transform="1,0,-160,0,1,904"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제<br id="n"/>디자인 회의</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.15</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="74:344" transform="1,0,110,0,1,919"><font val="S-Core Dream:3 Light"/>23.09.15</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>내 일정</base>
+      <string page="Page 1" frame="" nodeid="74:356" transform="1,0,-160,0,1,871"><font val="S-Core Dream:6 Bold"/>내 일정</string>
+    </TextNode>
+    <TextNode>
+      <base>더 보기</base>
+      <string page="Page 1" frame="" nodeid="74:313" transform="1,0,115,0,1,820"><font val="S-Core Dream:5 Medium"/>더 보기</string>
+    </TextNode>
+  <Frame name="소속 그룹3" imageid="62:2624">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 공연팀</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="62:2625" transform="1,0,-160,0,1,770"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 공연팀</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="62:2626" transform="1,0,118,0,1,775"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>39</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="62:2627" transform="1,0,134,0,1,772"><font val="S-Core Dream:5 Medium"/>39</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.05-23.12.15</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="62:2628" transform="1,0,63,0,1,795"><font val="S-Core Dream:3 Light"/>23.09.05-23.12.15</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹2" imageid="62:2618">
+    <TextNode>
+      <base>스키 모임 ‘보더’ 11기</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="62:2603" transform="1,0,-160,0,1,720"><font val="S-Core Dream:5 Medium"/>스키 모임 ‘보더’ 11기</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="62:2604" transform="1,0,118,0,1,725"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>12</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="62:2606" transform="1,0,134,0,1,722"><font val="S-Core Dream:5 Medium"/>12</string>
+    </TextNode>
+    <TextNode>
+      <base>23.02.15-24.01.20</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="62:2607" transform="1,0,63,0,1,745"><font val="S-Core Dream:3 Light"/>23.02.15-24.01.20</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹1" imageid="62:2619">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="62:2620" transform="1,0,-160,0,1,670"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="62:2621" transform="1,0,118,0,1,675"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>4</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="62:2622" transform="1,0,134,0,1,672"><font val="S-Core Dream:5 Medium"/>4</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.07-23.11.27</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="62:2623" transform="1,0,63,0,1,695"><font val="S-Core Dream:3 Light"/>23.09.07-23.11.27</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>현재 소속 그룹</base>
+      <string page="Page 1" frame="" nodeid="62:2597" transform="1,0,-160,0,1,637"><font val="S-Core Dream:6 Bold"/>현재 소속 그룹</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="61:144" transform="1,0,144,0,1,580"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹 뷰" imageid="120:1352">
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹 뷰" nodeid="120:1354" transform="1,0,-451,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹 뷰" nodeid="120:1355" transform="1,0,-523,0,1,1315"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹 뷰" nodeid="120:1356" transform="1,0,-595,0,1,1315"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹 뷰" nodeid="120:1357" transform="1,0,-666,0,1,1316"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹 뷰" nodeid="120:1358" transform="1,0,-744,0,1,1315"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  <Frame name="소속 그룹4" imageid="120:1417">
+    <TextNode>
+      <base>OO헬스장 헬스 모임</base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="120:1418" transform="1,0,-743,0,1,820"><font val="S-Core Dream:5 Medium"/>OO헬스장 헬스 모임</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="120:1419" transform="1,0,-465,0,1,825"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>55</base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="120:1420" transform="1,0,-449,0,1,822"><font val="S-Core Dream:5 Medium"/>55</string>
+    </TextNode>
+    <TextNode>
+      <base>23.10.01-24.11.11</base>
+      <string page="Page 1" frame="소속 그룹4" nodeid="120:1421" transform="1,0,-520,0,1,845"><font val="S-Core Dream:3 Light"/>23.10.01-24.11.11</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹3" imageid="120:1397">
+    <TextNode>
+      <base>뮤지컬 ‘영웅’ 공연팀</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="120:1398" transform="1,0,-743,0,1,770"><font val="S-Core Dream:5 Medium"/>뮤지컬 ‘영웅’ 공연팀</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="120:1399" transform="1,0,-465,0,1,775"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>39</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="120:1400" transform="1,0,-449,0,1,772"><font val="S-Core Dream:5 Medium"/>39</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.05-23.12.15</base>
+      <string page="Page 1" frame="소속 그룹3" nodeid="120:1401" transform="1,0,-520,0,1,795"><font val="S-Core Dream:3 Light"/>23.09.05-23.12.15</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹2" imageid="120:1402">
+    <TextNode>
+      <base>스키 모임 ‘보더’ 11기</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="120:1403" transform="1,0,-743,0,1,720"><font val="S-Core Dream:5 Medium"/>스키 모임 ‘보더’ 11기</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="120:1404" transform="1,0,-465,0,1,725"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>12</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="120:1405" transform="1,0,-449,0,1,722"><font val="S-Core Dream:5 Medium"/>12</string>
+    </TextNode>
+    <TextNode>
+      <base>23.02.15-24.01.20</base>
+      <string page="Page 1" frame="소속 그룹2" nodeid="120:1406" transform="1,0,-520,0,1,745"><font val="S-Core Dream:3 Light"/>23.02.15-24.01.20</string>
+    </TextNode>
+  </Frame>
+  <Frame name="소속 그룹1" imageid="120:1407">
+    <TextNode>
+      <base>제 5회 소프트웨어학과 2학기 학술제</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="120:1408" transform="1,0,-743,0,1,670"><font val="S-Core Dream:5 Medium"/>제 5회 소프트웨어학과 2학기 학술제</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="120:1409" transform="1,0,-465,0,1,675"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base>4</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="120:1410" transform="1,0,-449,0,1,672"><font val="S-Core Dream:5 Medium"/>4</string>
+    </TextNode>
+    <TextNode>
+      <base>23.09.07-23.11.27</base>
+      <string page="Page 1" frame="소속 그룹1" nodeid="120:1411" transform="1,0,-520,0,1,695"><font val="S-Core Dream:3 Light"/>23.09.07-23.11.27</string>
+    </TextNode>
+  </Frame>
+    <TextNode>
+      <base>현재 소속 그룹</base>
+      <string page="Page 1" frame="" nodeid="120:1413" transform="1,0,-743,0,1,637"><font val="S-Core Dream:6 Bold"/>현재 소속 그룹</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="120:1415" transform="1,0,-439,0,1,580"><font val="Font Awesome 6 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="192:1060" transform="1,0,-748,0,1,580"><font val="Font Awesome 6 Free:Solid"/></string>
+    </TextNode>
+  </Frame>
+  <Frame name="회원가입 뷰" imageid="44:291">
+    <TextNode>
+      <base>닉네임</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="90:618" transform="1,0,-605,0,1,196"><font val="S-Core Dream:5 Medium"/>닉네임</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I90:619;54:586" transform="1,0,-596,0,1,237"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>지역</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="44:543" transform="1,0,-606,0,1,122"><font val="S-Core Dream:5 Medium"/>지역</string>
+    </TextNode>
+  <Instance name="지역 입력" description="undefined">
+    <TextNode>
+      <base>지역을 입력하세요.</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I58:102;54:586" transform="1,0,-597,0,1,163"><font val="S-Core Dream:5 Medium"/>지역을 입력하세요.</string>
+    </TextNode>
+  </Instance>
+  <Instance name="day" description="undefined">
+    <TextNode>
+      <base>year</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I54:611;54:586" transform="1,0,-596,0,1,85"><font val="S-Core Dream:5 Medium"/>year</string>
+    </TextNode>
+  </Instance>
+  <Instance name="month" description="undefined">
+    <TextNode>
+      <base>month</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I54:614;54:586" transform="1,0,-501,0,1,85"><font val="S-Core Dream:5 Medium"/>month</string>
+    </TextNode>
+  </Instance>
+  <Instance name="year" description="undefined">
+    <TextNode>
+      <base>day</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I54:617;54:586" transform="1,0,-405,0,1,85"><font val="S-Core Dream:5 Medium"/>day</string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>생년월일</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="54:620" transform="1,0,-606,0,1,41"><font val="S-Core Dream:5 Medium"/>생년월일</string>
+    </TextNode>
+    <TextNode>
+      <base>비밀번호 확인</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="44:326" transform="1,0,-606,0,1,-36"><font val="S-Core Dream:5 Medium"/>비밀번호 확인</string>
+    </TextNode>
+  <Instance name="password input" description="undefined">
+    <TextNode>
+      <base>password</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:327;33:150" transform="1,0,-561,0,1,8"><font val="S-Core Dream:5 Medium"/>password</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:327;37:6" transform="1,0,-591,0,1,9"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:327;44:269" transform="1,0,-590,0,1,6"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>비밀번호</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="44:294" transform="1,0,-606,0,1,-112"><font val="S-Core Dream:5 Medium"/>비밀번호</string>
+    </TextNode>
+  <Instance name="password input" description="undefined">
+    <TextNode>
+      <base>password</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:298;33:150" transform="1,0,-561,0,1,-68"><font val="S-Core Dream:5 Medium"/>password</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:298;37:6" transform="1,0,-591,0,1,-67"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:298;44:269" transform="1,0,-590,0,1,-70"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>이메일</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="44:293" transform="1,0,-606,0,1,-188"><font val="S-Core Dream:5 Medium"/>이메일</string>
+    </TextNode>
+  <Instance name="email input" description="undefined">
+    <TextNode>
+      <base>e-mail</base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:297;33:150" transform="1,0,-561,0,1,-144"><font val="S-Core Dream:5 Medium"/>e-mail</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:297;37:6" transform="1,0,-591,0,1,-143"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="회원가입 뷰" nodeid="I44:297;44:269" transform="1,0,-590,0,1,-146"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I184:1356;62:2591;53923:27634">
+    <TextNode>
+      <base>sign up</base>
+      <string page="Page 1" frame="state-layer" nodeid="I184:1356;62:2591;53923:27635" transform="1,0,-396,0,1,295"><font val="Roboto:Medium"/>sign up</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+  </Frame>
+  <Frame name="로그인 뷰" imageid="1:2">
+    <TextNode>
+      <base>이메일</base>
+      <string page="Page 1" frame="로그인 뷰" nodeid="18:55" transform="1,0,-140,0,1,13"><font val="S-Core Dream:5 Medium"/>이메일</string>
+    </TextNode>
+    <TextNode>
+      <base>비밀번호</base>
+      <string page="Page 1" frame="로그인 뷰" nodeid="18:61" transform="1,0,-140,0,1,89"><font val="S-Core Dream:5 Medium"/>비밀번호</string>
+    </TextNode>
+  <Instance name="option" description="undefined">
+    <TextNode>
+      <base>자동 로그인</base>
+      <string page="Page 1" frame="" nodeid="I30:142;26:107" transform="1,0,-103,0,1,191"><font val="S-Core Dream:5 Medium"/>자동 로그인</string>
+    </TextNode>
+  </Instance>
+  <Instance name="email input" description="undefined">
+    <TextNode>
+      <base>e-mail</base>
+      <string page="Page 1" frame="" nodeid="I43:2228;33:150" transform="1,0,-95,0,1,57"><font val="S-Core Dream:5 Medium"/>e-mail</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I43:2228;37:6" transform="1,0,-125,0,1,58"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I43:2228;44:269" transform="1,0,-124,0,1,55"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+  <Instance name="password input" description="undefined">
+    <TextNode>
+      <base>password</base>
+      <string page="Page 1" frame="" nodeid="I43:2232;33:150" transform="1,0,-95,0,1,133"><font val="S-Core Dream:5 Medium"/>password</string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I43:2232;37:6" transform="1,0,-125,0,1,134"><font val="Font Awesome 5 Free:Regular"/></string>
+    </TextNode>
+    <TextNode>
+      <base></base>
+      <string page="Page 1" frame="" nodeid="I43:2232;44:269" transform="1,0,-124,0,1,131"><font val="Font Awesome 5 Free:Solid"/></string>
+    </TextNode>
+  </Instance>
+    <TextNode>
+      <base>회원가입</base>
+      <string page="Page 1" frame="" nodeid="44:279" transform="1,0,-133,0,1,223"><font val="Font Awesome 5 Free:Solid"/>회원가입</string>
+    </TextNode>
+  <Instance name="form input/button" description="undefined">
+  <Instance name="login button" description="undefined">
+  <Frame name="state-layer" imageid="I184:1352;62:2591;53923:27634">
+    <TextNode>
+      <base>login</base>
+      <string page="Page 1" frame="state-layer" nodeid="I184:1352;62:2591;53923:27635" transform="1,0,85,0,1,188"><font val="Roboto:Medium"/>login</string>
+    </TextNode>
+  </Frame>
+  </Instance>
+  </Instance>
+  </Frame>
+</Page>
+<Page name="Page 2" imageid="28:126">
+</Page>
+</figma>
