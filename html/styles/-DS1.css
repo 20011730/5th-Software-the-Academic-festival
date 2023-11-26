@@ -1,0 +1,769 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--Wnd {
+  width: 100%;
+  height: 80rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.item--Wnd .auto-group-bvnb-qa1 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 36rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+}
+.item--Wnd .item--Uss {
+  width: 36rem;
+  height: 62.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.8rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.item--Wnd .item--Uss .item--1N1 {
+  width: 100%;
+  height: 87rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.item--Wnd .item--Uss .item--1N1 .item--8Bj {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--8Bj .frame-2-eQy {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--8Bj .frame-2-eQy .item--Q9F {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--8Bj .frame-2-eQy .item-000--7ZT {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--xpy {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--xpy .frame-3-gky {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--xpy .frame-3-gky .item--eC1 {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--xpy .frame-3-gky .item--mGd {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--r3B {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--r3B .frame-2-y7o {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--r3B .frame-2-y7o .item--KxM {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--r3B .frame-2-y7o .item-000--eUq {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--897 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--897 .frame-3-4YZ {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--897 .frame-3-4YZ .item--pGq {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--897 .frame-3-4YZ .item--YTj {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--RXX {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--RXX .frame-2-m5b {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--RXX .frame-2-m5b .item--vDP {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--RXX .frame-2-m5b .item-000--3Yu {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--jAq {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--jAq .frame-3-s29 {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--jAq .frame-3-s29 .item--pCH {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--jAq .frame-3-s29 .item--LwK {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--E17 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--E17 .frame-2-AQZ {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--E17 .frame-2-AQZ .item--KYM {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--E17 .frame-2-AQZ .item-000--3jF {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--XuK {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--XuK .frame-3-UJm {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--XuK .frame-3-UJm .item--Dn9 {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--XuK .frame-3-UJm .item--k1P {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--cZP {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--cZP .frame-2-wrZ {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--cZP .frame-2-wrZ .item--7FF {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--cZP .frame-2-wrZ .item-000--qS9 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--7eZ {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--7eZ .frame-3-TCd {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--7eZ .frame-3-TCd .item--c5X {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--7eZ .frame-3-TCd .item--L1X {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--1tM {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--1tM .frame-2-MBX {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--1tM .frame-2-MBX .item--7Ah {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--1tM .frame-2-MBX .item-000--deq {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--KGm {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--KGm .frame-3-FRK {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--KGm .frame-3-FRK .item--oSq {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--KGm .frame-3-FRK .item--XNq {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--BiH {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--BiH .frame-2-vA5 {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--BiH .frame-2-vA5 .item--Gjj {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--BiH .frame-2-vA5 .item-000--zvd {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--HPw {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--HPw .frame-3-DoP {
+  width: 19.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--HPw .frame-3-DoP .item--BVK {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--HPw .frame-3-DoP .item--7Ny {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--CQR {
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem;
+  width: 100%;
+  height: 5.8rem;
+  border: solid 0 #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--CQR .frame-2-LFj {
+  width: 22.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--Wnd .item--Uss .item--1N1 .item--CQR .frame-2-LFj .item--Hwf {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .item--Uss .item--1N1 .item--CQR .frame-2-LFj .item-000--cj3 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Wnd .down-sey {
+  width: 36rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 0;
+  top: 73.5rem;
+  box-shadow: 0 -0.5rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #e5beec;
+}
+.item--Wnd .item--Bff {
+  width: 1.5rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.2rem;
+  top: 75.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .item--SLh {
+  width: 1.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 24rem;
+  top: 75.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .item--KvH {
+  width: 1.5rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 16.8rem;
+  top: 75.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .item--cPb {
+  width: 1.6rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.7rem;
+  top: 75.8rem;
+  display: flex;
+  font-size: 2.6rem;
+  font-weight: 900;
+  line-height: 0.7692307692;
+  letter-spacing: 0.01rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .item--tM7 {
+  width: 1.5rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.9rem;
+  top: 75.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .up-mfo {
+  width: 36rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0 #e5beec;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.item--Wnd .item--siq {
+  width: 1.5rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 32.7rem;
+  top: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Wnd .item--xEV {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Wnd .item--4oK {
+  width: 1.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 2.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.8333333333;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  white-space: nowrap;
+}

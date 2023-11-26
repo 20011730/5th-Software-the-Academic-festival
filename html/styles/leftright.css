@@ -1,0 +1,193 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 25.6rem;
+}.leftright-RrH {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.leftright-RrH .property-1default-MV3 {
+  width: 100%;
+  height: 3.8rem;
+  flex-shrink: 0;
+}
+.leftright-RrH .property-1default-MV3 .all-7DK {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: #2b2930;
+  border-radius: 0.8rem;
+}
+.leftright-RrH .property-1default-MV3 .all-7DK .am-rwb {
+  width: 10.8rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: #474de0;
+  flex-shrink: 0;
+}
+.leftright-RrH .property-1default-MV3 .all-7DK .pm-vgZ {
+  width: 10.8rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e76868;
+  flex-shrink: 0;
+}
+.leftright-RrH .left-XRT {
+  width: 100%;
+  height: 3.8rem;
+  flex-shrink: 0;
+}
+.leftright-RrH .left-XRT .left-5C5 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: #2b2930;
+  border-radius: 0.8rem;
+}
+.leftright-RrH .left-XRT .left-5C5 .am-R13 {
+  width: 10.8rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: #474de0;
+  flex-shrink: 0;
+}
+.leftright-RrH .left-XRT .left-5C5 .pm-TyK {
+  width: 10.8rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: S-Core Dream, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(231, 104, 104, 0.5);
+  flex-shrink: 0;
+}
+.leftright-RrH .right-Jyw {
+  width: 100%;
+  height: 3.8rem;
+  flex-shrink: 0;
+}
+.leftright-RrH .right-Jyw .right-sXF {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: #2b2930;
+  border-radius: 0.8rem;
+}
+.leftright-RrH .right-Jyw .right-sXF .am-E6u {
+  width: 10.8rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #938f99;
+  box-sizing: border-box;
+  background-color: rgba(71, 77, 224, 0.5);
+  flex-shrink: 0;
+}
+.leftright-RrH .right-Jyw .right-sXF .pm-hFP {
+  width: 10.8rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e76868;
+  flex-shrink: 0;
+}
