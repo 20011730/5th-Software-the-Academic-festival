@@ -1,0 +1,26 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<TextView
+  android:id="@+id/button"
+  android:layout_width="53dp"
+  android:layout_height="19dp"
+  android:layout_centerHorizontal="true"
+  android:layout_centerVertical="true"
+  android:text="@string/button"
+  android:textAppearance="@style/button"
+  android:gravity="center_horizontal|top"
+ />
+<!--
+  Font family: S-Core Dream
+  Line height: 19sp
+  -->
+  
+<!-- styles.xml -->
+<style name="button">
+<item name="android:textSize">16sp</item>
+<item name="android:textColor">#FFFFFF</item>
+</style>
+  
+<!-- strings.xml -->
+<string name="button">
+  button
+</string>

@@ -1,0 +1,27 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<TextView
+  android:id="@+id/label_text"
+  android:layout_width="32dp"
+  android:layout_height="20dp"
+  android:text="@string/label_text"
+  android:textAppearance="@style/label_text"
+  android:lineSpacingExtra="4sp"
+  android:gravity="center_horizontal|center_vertical"
+ />
+<!--
+  Font family: Roboto
+  Line height: 20sp
+  (identical to box height)
+  -->
+  
+<!-- styles.xml -->
+<style name="label_text">
+<item name="android:textSize">14sp</item>
+<item name="android:letterSpacing">0.01</item>
+<item name="android:textColor">#FFFFFF</item>
+</style>
+  
+<!-- strings.xml -->
+<string name="label_text">
+  login
+</string>

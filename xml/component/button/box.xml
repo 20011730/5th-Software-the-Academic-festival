@@ -1,0 +1,36 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<View
+  android:id="@+id/login"
+  android:layout_width="0dp"
+  android:layout_height="0dp"
+  android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+  android:layout_alignParentTop="true"
+  android:layout_alignParentBottom="true"
+  android:background="@drawable/login"
+ />
+  
+<!-- drawable/login.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="139dp"
+  android:height="47dp"
+  android:viewportWidth="139"
+  android:viewportHeight="47"
+ >
+<group>
+<clip-path
+  android:pathData="M15 0H124C132.284 0 139 6.71573 139 15V32C139 40.2843 132.284 47 124 47H15C6.71573 47 0 40.2843 0 32V15C0 6.71573 6.71573 0 15 0Z"
+/>
+<path
+  android:pathData="M0 0V47H139V0"
+  android:fillColor="#E5BEEC"
+/>
+<path
+  android:pathData="M15 0H124C132.284 0 139 6.71573 139 15V32C139 40.2843 132.284 47 124 47H15C6.71573 47 0 40.2843 0 32V15C0 6.71573 6.71573 0 15 0Z"
+  android:strokeWidth="2"
+  android:strokeColor="#000000"
+/>
+</group>
+</vector>
