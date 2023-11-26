@@ -1,0 +1,56 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 6.4rem;
+}.item--ycm {
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+
+  .property-1default-umK {
+    display: flex;
+    line-height: 0.8333333333;
+    color: #000000;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-bottom: 2.3rem;
+    width: 100%;
+    cursor: pointer;
+    font-size: 2.4rem;
+    font-weight: 400;
+    letter-spacing: 0.01rem;
+    font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  }
+  .property-1default-CkR {
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    letter-spacing: 0.01rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+    font-size: 2.4rem;
+    font-weight: 900;
+    line-height: 0.8333333333;
+    color: #ff0404;
+    font-family: Font Awesome 6 Free, 'Source Sans Pro';
+  }
+}

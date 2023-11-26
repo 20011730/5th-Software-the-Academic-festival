@@ -1,0 +1,130 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 31.2rem;
+}.item--EAd {
+  width: 100%;
+  height: 18rem;
+
+  .basic-dialog-dark-8mo {
+    position: relative;
+    flex-direction: column;
+    background-color: #2a2f4f;
+    display: flex;
+    border-radius: 2.8rem;
+    box-sizing: border-box;
+    padding: 2.4rem 0rem 0rem 2.4rem;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    align-items: flex-end;
+
+    .title-description--3ds {
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-right: 13.2rem;
+
+      .headline-zJD {
+        font-family: S-Core Dream, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-bottom: 1.6rem;
+        display: flex;
+        font-size: 2.4rem;
+        color: #e6e0e9;
+        font-weight: 500;
+        line-height: 1.3333333333;
+        flex-shrink: 0;
+      }
+      .supporting-text-6s3 {
+        font-weight: 400;
+        letter-spacing: 0.025rem;
+        font-family: Roboto, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        display: flex;
+        line-height: 1.4285714286;
+        color: #cac4d0;
+        font-size: 1.4rem;
+      }
+    }
+    .actions-pY9 {
+      height: 8.8rem;
+      overflow: hidden;
+      position: relative;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 0.8rem;
+      width: 14rem;
+
+      .actions-kwb {
+        width: 10.8rem;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        align-items: center;
+
+        .secondary-button-JTK {
+          flex-shrink: 0;
+          margin-right: 0.8rem;
+          width: 5rem;
+          height: 100%;
+          cursor: pointer;
+          overflow: hidden;
+          position: relative;
+          border-radius: 10rem;
+
+          .state-layer-qi9 {
+            justify-content: center;
+            font-size: 1.4rem;
+            font-weight: 500;
+            font-family: Roboto, 'Source Sans Pro';
+            height: 100%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            line-height: 1.4285714286;
+            letter-spacing: 0.01rem;
+            color: #d0bcff;
+            white-space: nowrap;
+            width: 100%;
+          }
+        }
+        .primary-button-8hF {
+          font-size: 1.4rem;
+          line-height: 1.4285714286;
+          border-radius: 10rem;
+          flex-shrink: 0;
+          width: 5rem;
+          cursor: pointer;
+          overflow: hidden;
+          align-items: center;
+          font-weight: 500;
+          white-space: nowrap;
+          height: 100%;
+          justify-content: center;
+          font-family: Roboto, 'Source Sans Pro';
+          position: relative;
+          display: flex;
+          letter-spacing: 0.01rem;
+          color: #d0bcff;
+        }
+      }
+    }
+  }
+}

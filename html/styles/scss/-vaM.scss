@@ -1,0 +1,455 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--w2y {
+  box-sizing: border-box;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  background-color: #ffffff;
+  padding-top: 0.1rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+
+  .auto-group-rzmv-47b {
+    width: 100%;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding: 1rem 1.8rem 0.9rem 1.8rem;
+    align-items: center;
+    border: solid 0 #e5beec;
+    flex-shrink: 0;
+    display: flex;
+    column-gap: 12.5rem;
+
+    .item--Ne5 {
+      white-space: nowrap;
+      line-height: 0.8333333333;
+      letter-spacing: 0.01rem;
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 900;
+      color: #000000;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .item--5Hb {
+      width: 4.4rem;
+      height: 4.2rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .item--Qqf {
+      color: #000000;
+      white-space: nowrap;
+      flex-shrink: 0;
+      align-items: center;
+      font-weight: 400;
+      letter-spacing: 0.01rem;
+      line-height: 0.8333333333;
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      display: flex;
+      justify-content: center;
+      font-size: 2.4rem;
+    }
+  }
+  .auto-group-rmco-h45 {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 4.3rem 1.8rem 23.8rem 2.75rem;
+    width: 100%;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+
+    .item--cwj {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 2rem 5.2rem 1.55rem;
+      width: calc(100% - 3.55rem);
+      height: 3.2rem;
+      display: flex;
+
+      .item--Lcq {
+        font-weight: 500;
+        line-height: 1.2575;
+        color: #000000;
+        font-family: S-Core Dream, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-right: 20rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        flex-shrink: 0;
+      }
+      .form-toggle-Fjo {
+        background-color: #b5b5b5;
+        border-radius: 2rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.3rem;
+        width: 6rem;
+        height: 100%;
+        cursor: pointer;
+
+        .ellipse-2-Q6u {
+          width: 2.6rem;
+          height: 2.6rem;
+          background-color: #ffffff;
+          border-radius: 1.3rem;
+        }
+      }
+    }
+    .item--vb3 {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 2rem 4.4rem 1.55rem;
+      width: calc(100% - 3.55rem);
+      height: 3.2rem;
+      display: flex;
+
+      .item--Erd {
+        margin-right: 20rem;
+        display: flex;
+        font-size: 1.5rem;
+        font-weight: 500;
+        line-height: 1.2575;
+        color: #000000;
+        white-space: nowrap;
+        align-items: center;
+        justify-content: center;
+        font-family: S-Core Dream, 'Source Sans Pro';
+        flex-shrink: 0;
+      }
+      .form-toggle-NC9 {
+        width: 6rem;
+        height: 100%;
+        cursor: pointer;
+        background-color: #b5b5b5;
+        border-radius: 2rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.3rem;
+
+        .ellipse-2-JrV {
+          width: 2.6rem;
+          height: 2.6rem;
+          background-color: #ffffff;
+          border-radius: 1.3rem;
+        }
+      }
+    }
+    .auto-group-besd-wuT {
+      flex-shrink: 0;
+      margin-bottom: 2.6rem;
+      width: 100%;
+      height: 16.6rem;
+      display: flex;
+      align-items: flex-start;
+
+      .item--6GZ {
+        display: flex;
+        font-size: 1.5rem;
+        font-weight: 500;
+        line-height: 1.2575;
+        font-family: S-Core Dream, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.75rem 5.75rem 0rem 0rem;
+        align-items: center;
+        justify-content: center;
+        color: #000000;
+      }
+      .auto-group-mxlw-z73 {
+        width: 20.7rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .item--w2H {
+          display: flex;
+          font-size: 2rem;
+          width: 20.7rem;
+          height: 3.4rem;
+          position: absolute;
+          top: 13.2rem;
+          white-space: nowrap;
+          box-sizing: border-box;
+          padding: 0.4rem 1rem;
+          color: #000000;
+          font-family: S-Core Dream, 'Source Sans Pro';
+          line-height: 1.2575;
+          border: solid 0.1rem #000000;
+          left: 0;
+          font-weight: 500;
+          background-color: #ffffff;
+          border-radius: 0.5rem;
+        }
+        .form-mini-button-mX7 {
+          align-items: center;
+          border: solid 0.1rem #000000;
+          padding: 0.7rem 0.7rem 0.6rem 1rem;
+          height: 3.4rem;
+          cursor: pointer;
+          left: 0;
+          display: flex;
+          border-radius: 0.5rem;
+          box-sizing: border-box;
+          width: 20.7rem;
+          position: absolute;
+          top: 9.9rem;
+          background-color: #ffffff;
+
+          .input-text-Gim {
+            color: rgba(0, 0, 0, 0.200000003);
+            font-family: S-Core Dream, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 11rem 0.2rem 0rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.2575;
+          }
+          .x-Nmo {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+            font-size: 1.5rem;
+            font-weight: 900;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Font Awesome 6 Free, 'Source Sans Pro';
+          }
+        }
+        .form-mini-button-6C1 {
+          top: 6.6rem;
+          display: flex;
+          cursor: pointer;
+          position: absolute;
+          width: 20.7rem;
+          height: 3.4rem;
+          left: 0;
+          align-items: center;
+          border: solid 0.1rem #000000;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 0.7rem 0.7rem 0.6rem 1rem;
+          border-radius: 0.5rem;
+
+          .input-text-zoB {
+            flex-shrink: 0;
+            margin: 0rem 11rem 0.2rem 0rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.2575;
+            color: rgba(0, 0, 0, 0.200000003);
+            font-family: S-Core Dream, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .x-7so {
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+            font-size: 1.5rem;
+            font-weight: 900;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Font Awesome 6 Free, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .form-mini-button-S9P {
+          cursor: pointer;
+          position: absolute;
+          left: 0;
+          top: 3.3rem;
+          align-items: center;
+          border-radius: 0.5rem;
+          width: 20.7rem;
+          height: 3.4rem;
+          display: flex;
+          border: solid 0.1rem #000000;
+          background-color: #ffffff;
+          box-sizing: border-box;
+          padding: 0.7rem 0.7rem 0.6rem 1rem;
+
+          .input-text-jPP {
+            flex-shrink: 0;
+            margin: 0rem 11rem 0.2rem 0rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.2575;
+            color: rgba(0, 0, 0, 0.200000003);
+            font-family: S-Core Dream, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .x-ZNR {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+            font-size: 1.5rem;
+            font-weight: 900;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Font Awesome 6 Free, 'Source Sans Pro';
+          }
+        }
+        .form-mini-button-gC9 {
+          cursor: pointer;
+          top: 0;
+          display: flex;
+          background-color: #ffffff;
+          position: absolute;
+          left: 0;
+          align-items: center;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          padding: 0.7rem 0.7rem 0.6rem 1rem;
+          width: 20.7rem;
+          height: 3.4rem;
+          border-radius: 0.5rem;
+
+          .input-text-nky {
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.2575;
+            color: rgba(0, 0, 0, 0.200000003);
+            font-family: S-Core Dream, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 11rem 0.2rem 0rem;
+          }
+          .x-KF7 {
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+            font-size: 1.5rem;
+            font-weight: 900;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Font Awesome 6 Free, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .item--2QR {
+      width: 7.4rem;
+      height: 4rem;
+      cursor: pointer;
+      flex-shrink: 0;
+
+      .login-button-aB3 {
+        background-color: #e5beec;
+        width: 100%;
+        display: flex;
+        line-height: 1.4285714286;
+        white-space: nowrap;
+        align-items: center;
+        font-weight: 500;
+        font-family: Roboto, 'Source Sans Pro';
+        height: 100%;
+        letter-spacing: 0.01rem;
+        border-radius: 10rem;
+        justify-content: center;
+        font-size: 1.4rem;
+        color: #ffffff;
+        cursor: pointer;
+        overflow: hidden;
+        position: relative;
+      }
+    }
+  }
+  .auto-group-aj8j-4M7 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 -0.5rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #e5beec;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 2.2rem 3.3rem 2.2rem 1.9rem;
+
+    .item--BRj {
+      flex-shrink: 0;
+      cursor: pointer;
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      font-weight: 900;
+      line-height: 0.8333333333;
+      letter-spacing: 0.01rem;
+      white-space: nowrap;
+      margin: 0.1rem 6.3rem 0rem 0rem;
+      display: flex;
+      font-size: 2.4rem;
+    }
+    .item--t5F {
+      font-weight: 900;
+      line-height: 0.7692307692;
+      letter-spacing: 0.01rem;
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0.1rem 5.5rem 0rem 0rem;
+      cursor: pointer;
+      display: flex;
+      font-size: 2.6rem;
+      color: rgba(0, 0, 0, 0.5);
+      flex-shrink: 0;
+    }
+    .item--ysP {
+      margin: 0rem 5.7rem 0.1rem 0rem;
+      font-weight: 900;
+      line-height: 0.8333333333;
+      color: rgba(0, 0, 0, 0.5);
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      white-space: nowrap;
+      display: flex;
+      font-size: 2.4rem;
+      letter-spacing: 0.01rem;
+      flex-shrink: 0;
+    }
+    .item--HNH {
+      font-size: 2.4rem;
+      letter-spacing: 0.01rem;
+      color: rgba(0, 0, 0, 0.5);
+      white-space: nowrap;
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin: 0rem 5.7rem 0.1rem 0rem;
+      cursor: pointer;
+      display: flex;
+      font-weight: 400;
+      line-height: 0.8333333333;
+    }
+    .item--ByT {
+      margin-bottom: 0.1rem;
+      cursor: pointer;
+      font-weight: 400;
+      line-height: 0.8333333333;
+      font-family: Font Awesome 6 Free, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-size: 2.4rem;
+      letter-spacing: 0.01rem;
+      color: rgba(0, 0, 0, 0.5);
+    }
+  }
+}

@@ -1,0 +1,62 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 10rem;
+}.form-toggle-qxd {
+  flex-direction: column;
+  border-radius: 0.5rem;
+  width: 100%;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  padding: 2rem;
+
+  .property-1default-off-aQR {
+    border-radius: 2rem;
+    flex-shrink: 0;
+    margin-bottom: 2rem;
+    box-sizing: border-box;
+    padding: 0.3rem;
+    width: 100%;
+    cursor: pointer;
+    background-color: #b5b5b5;
+
+    .ellipse-2-hzq {
+      width: 2.6rem;
+      height: 2.6rem;
+      background-color: #ffffff;
+      border-radius: 1.3rem;
+    }
+  }
+  .property-1on-cru {
+    background-color: #52559b;
+    border-radius: 2rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.3rem 0.3rem 0.3rem 3.1rem;
+    width: 100%;
+    cursor: pointer;
+
+    .ellipse-2-wuB {
+      width: 100%;
+      height: 2.6rem;
+      background-color: #ffffff;
+      border-radius: 1.3rem;
+    }
+  }
+}
