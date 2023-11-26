@@ -1,0 +1,27 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<TextView
+  android:id="@+id/some_id"
+  android:layout_width="228dp"
+  android:layout_height="20dp"
+  android:text="@string/some_id"
+  android:textAppearance="@style/some_id"
+  android:lineSpacingExtra="8sp"
+  android:gravity="center_vertical"
+ />
+<!--
+  Font family: S-Core Dream
+  Line height: 20sp
+  (identical to box height)
+  -->
+  
+<!-- styles.xml -->
+<style name="some_id">
+<item name="android:textSize">10sp</item>
+<item name="android:letterSpacing">0.01</item>
+<item name="android:textColor">#CA6202</item>
+</style>
+  
+<!-- strings.xml -->
+<string name="some_id">
+  \u00ec\u009e\u0090\u00ec\u009c\u00a0 \u00ea\u00b2\u008c\u00ec\u008b\u009c\u00ed\u008c\u0090
+</string>

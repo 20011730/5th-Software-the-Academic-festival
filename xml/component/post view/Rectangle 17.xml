@@ -1,0 +1,36 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<View
+  android:id="@+id/rectangle_1"
+  android:layout_width="0dp"
+  android:layout_height="0dp"
+  android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+  android:layout_alignParentTop="true"
+  android:layout_alignParentBottom="true"
+  android:background="@drawable/rectangle_1"
+ />
+  
+<!-- drawable/rectangle_1.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="388dp"
+  android:height="94dp"
+  android:viewportWidth="388"
+  android:viewportHeight="94"
+ >
+<group>
+<clip-path
+  android:pathData="M0 0H388V94H0V0Z"
+/>
+<path
+  android:pathData="M0 0V94H388V0"
+  android:fillColor="#FFFFFF"
+/>
+<path
+  android:pathData="M0 0H388V94H0V0Z"
+  android:strokeWidth="2"
+  android:strokeColor="#000000"
+/>
+</group>
+</vector>

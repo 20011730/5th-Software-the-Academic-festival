@@ -1,0 +1,10 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/frame_3297"
+  android:layout_width="228dp"
+  android:layout_height="92dp"
+  android:layout_alignParentLeft="true"
+  android:layout_marginLeft="25dp"
+  android:layout_alignParentTop="true"
+ />
