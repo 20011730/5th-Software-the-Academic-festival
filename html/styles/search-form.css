@@ -1,0 +1,93 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 38.2rem;
+}.search-form-Qfb {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.search-form-Qfb .property-1search-form-kUZ {
+  margin-bottom: 5.3825rem;
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP {
+  box-sizing: border-box;
+  padding: 0.42rem 0rem 0.42rem 0.38rem;
+  width: 38rem;
+  height: 100%;
+  background-color: #2a2f4f;
+  border-radius: 2.66rem;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP .state-layer-oxd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP .state-layer-oxd .leading-icon-mPf {
+  margin-right: 0.38rem;
+  width: 4.56rem;
+  height: 4.56rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP .state-layer-oxd .supporting-text-JPb {
+  margin: 0rem 19.04rem 0rem 0rem;
+  display: flex;
+  font-size: 1.52rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.0475rem;
+  color: #cac4d0;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP .state-layer-oxd .trailing-elements-ykd {
+  width: 8.74rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.search-form-Qfb .property-1search-form-kUZ .search-bar-dark-HjP .state-layer-oxd .trailing-elements-ykd .st-trailing-icon-jjo {
+  margin-right: 4.18rem;
+  width: 4.56rem;
+  height: 4.56rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+}
+.search-form-Qfb .property-1search-view-modal-dark-2yo {
+  width: 34.2rem;
+  height: 12.255rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
